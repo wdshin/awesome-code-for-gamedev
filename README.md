@@ -314,7 +314,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 * [oktal/pistache](https://github.com/oktal/pistache) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
-
+* https://github.com/oatpp/oatpp
 
 ## Open Source Game Server
 
