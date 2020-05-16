@@ -185,6 +185,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Data Structures and Algorithms
 
+* [orlp/pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. 
 * [greg7mdp/sparsepp](https://github.com/greg7mdp/sparsepp) (cpp) - A fast, memory efficient hash map for C++
 * [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 * [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
