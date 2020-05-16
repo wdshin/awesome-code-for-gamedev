@@ -169,6 +169,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
 * [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
 * [xorz57/forest](https://github.com/xorz57/forest) - Template Library of Tree Data Structures in C++17
+* [mattreecebentley/plf_list](https://github.com/mattreecebentley/plf_list) (cpp) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. [zLib] 
+* [mattreecebentley/plf_stack](https://github.com/mattreecebentley/plf_stack) (cpp)- A C++ data container replicating std::stack functionality but with better performance than standard library containers in a stack context. 
 
 ## Objects
 
