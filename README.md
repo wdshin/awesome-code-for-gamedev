@@ -330,6 +330,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Objects
 
 * https://github.com/miguelmartin75/anax
+* https://github.com/alecthomas/entityx
 
 ## Saving/Loading Objects, Compositing Packets
 
@@ -344,6 +345,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://github.com/Neargye/magic_enum
 * https://github.com/leapmotion/leapserial
 * https://github.com/nlohmann/json
+* https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime
 
 
 ## Triangles , Geometry , Maths , Physics
@@ -360,6 +362,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://gamedev.stackexchange.com/questions/112143/when-to-use-a-blend-tree-vs-state-machine-for-animation
 
 ## Physics
+
+* https://www.reactphysics3d.com/
+* http://projectchrono.org/
+* https://pybullet.org/wordpress/
 
 ## UI
 
