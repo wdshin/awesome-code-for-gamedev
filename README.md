@@ -103,8 +103,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Networking Libraries
 
 * https://cpp.libhunt.com/compare-libev-vs-libuv
-* libuv
-* https://libevent.org/
+* [libuv/libuv](https://github.com/libuv/libuv) (cpp) - Cross-platform asynchronous I/O 
 
 ## Networking Libraries/Frameworks in Client Side
 
@@ -112,7 +111,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [scylladb/seastar](https://github.com/scylladb/seastar) (cpp) - High performance server-side application framework
 * [pocoproject/poco](https://github.com/pocoproject/poco) (cpp) - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost] 
-
+* [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) (cpp) - Simple, secure & standards compliant web server for the most demanding of applications 
 
 ## HTTP in Server Side
 
