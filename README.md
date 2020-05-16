@@ -93,9 +93,18 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Reactive
 
-## Concurrency
+* [schlangster/cpp.react](https://github.com/schlangster/cpp.react) (cpp) - C++React: A reactive programming library for C++11. 
+
+
+## Concurrency & Parallelism
 
 * [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) (cpp) - A library of C++ coroutine abstractions for the coroutines TS
+* [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) (cpp) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11 
+* [thrust](http://thrust.github.io/) (cpp) - a parallel algorithms library which resembles the C++ Standard Template Library (STL)
+
+## GPU
+
+* [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) (cpp) - a general purpose GPU library. 
 
 ## File IO
 
@@ -139,6 +148,9 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Crypto
 
+* [jedisct1/libsodium](https://github.com/jedisct1/libsodium) (cpp) - A modern, portable, easy to use crypto library
+* [randombit/botan](https://github.com/randombit/botan) (cpp) - Cryptography Toolkit
+* [awslabs/s2n](https://github.com/awslabs/s2n) (cpp) - an implementation of the TLS/SSL protocols
 * [weidai11/cryptopp](https://github.com/weidai11/cryptopp) (cpp) - free C++ class library of cryptographic schemes
 
 ## Code Stability
