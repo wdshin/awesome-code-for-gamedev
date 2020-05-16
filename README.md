@@ -24,12 +24,6 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [vcpkg](https://github.com/Microsoft/vcpkg) (cpp)
 
-* https://www.reddit.com/r/cpp/comments/8t0ufu/what_is_a_good_package_manager_for_c/
-* [conan](https://github.com/conan-io/conan) (cpp)
-
-* [buckaroo](https://github.com/LoopPerfect/buckaroo) (cpp)
-* [hunter](https://hunter.readthedocs.io/en/latest/) (cpp)
-
 ## Build
 
 * CMake
