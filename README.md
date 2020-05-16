@@ -30,8 +30,11 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Objects
 
+
 * [skypjack/entt](https://github.com/skypjack/entt) (cpp) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 * [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework) (cpp) - An Open Source Implementation of the Actor Model in C++
+* [Stiffstream/sobjectizer](https://github.com/Stiffstream/sobjectizer) (cpp) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. With performance, quality, and stability proved by years in the production.
+
 
 ## Saving/Loading Objects, Compositing Packets
 
@@ -164,6 +167,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 * [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
 * [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
+
+## Objects
+
+
 
 
 ## Saving/Loading Objects, Compositing Packets
