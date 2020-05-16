@@ -335,6 +335,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Open Source Game Server
 
 * [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.34220, 3.3.5 = 3.3.5a.12340)
+* [ketoo/NoahgameFrame](https://github.com/ketoo/NoahGameFrame) (cpp) - A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal. 
 
 ## Communication Clients
 
