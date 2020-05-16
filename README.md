@@ -259,6 +259,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://github.com/Tessil/robin-map - C++ implementation of a fast hash map and hash set using robin hood hashing 
 * https://github.com/martinus/robin-hood-hashing - Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20 
 * https://github.com/faragon/libsrt
+* https://github.com/electronicarts/EASTL
 
 ## i18n
 
@@ -358,3 +359,6 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
 
+## VM
+
+* https://github.com/rabbitvm/rabbit
