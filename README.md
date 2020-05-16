@@ -262,6 +262,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * https://github.com/bkaradzic/bgfx/blob/master/examples/common/imgui/imgui.cpp
 
+## Graphics Middleware
+
+* https://github.com/mosra/magnum
+
 ## DirectX, OpenGL, OpenGLES , Vulkan , Metal
 
 ## Frameworks
