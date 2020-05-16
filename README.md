@@ -211,6 +211,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [zeux/pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
 * https://github.com/niXman/yas
 * https://github.com/fraillt/bitsery
+* https://github.com/Microsoft/bond
 
 
 ## Triangles , Geometry , Maths , Physics
