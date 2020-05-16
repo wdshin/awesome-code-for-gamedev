@@ -112,6 +112,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Animations
 
+## Navigation , Pathfinding
+
 ## Particles
 
 ## Physics
