@@ -354,6 +354,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * https://github.com/guillaumeblanc/ozz-animation
 
+## Animation and State
+
+* https://gamedev.stackexchange.com/questions/112143/when-to-use-a-blend-tree-vs-state-machine-for-animation
+
 ## Physics
 
 ## UI
