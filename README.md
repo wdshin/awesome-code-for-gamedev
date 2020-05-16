@@ -266,6 +266,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * https://github.com/mosra/magnum
 
+## Animation
+
+* https://github.com/DragonBones/DragonBonesCPP
+
 ## DirectX, OpenGL, OpenGLES , Vulkan , Metal
 
 ## Frameworks
