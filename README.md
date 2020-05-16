@@ -131,10 +131,20 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * ?
 
+## MQ
+
+* https://www.rabbitmq.com/download.html
+
+
+## MQ Client
+
+* https://www.rabbitmq.com/devtools.html
+* https://github.com/CopernicaMarketingSoftware/AMQP-CPP
+
 ## Communication between servers , Interprocess Communications
 
 * [grpc/grpc](https://github.com/grpc/grpc) (cpp) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-* https://github.com/apache/thrift
+
 
 ## Communication Clients
 
@@ -329,6 +339,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) (cpp) - C++ client for making HTTP/REST requests
 * [jpbarrette/curlpp](https://github.com/jpbarrette/curlpp) (cpp) - C++ wrapper around libcURL
 * [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
+
+## Communication between servers , Interprocess Communications
+
+* https://github.com/apache/thrift
 
 ## Memory Allocator
 
