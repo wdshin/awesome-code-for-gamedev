@@ -168,6 +168,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 * [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
 * [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
+* [xorz57/forest](https://github.com/xorz57/forest) - Template Library of Tree Data Structures in C++17
 
 ## Objects
 
