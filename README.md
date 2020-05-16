@@ -209,6 +209,9 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [capnproto/capnproto](https://github.com/capnproto/capnproto) (cpp) - Cap'n Proto serialization/RPC system - core tools and C++ library
 * [USCiLab/cereal](https://github.com/USCiLab/cereal) (cpp) - A C++11 library for serialization
 * [zeux/pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
+* https://github.com/niXman/yas
+* https://github.com/fraillt/bitsery
+
 
 ## Triangles , Geometry , Maths , Physics
 
