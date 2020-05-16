@@ -1,8 +1,8 @@
 # awesome-code-for-gamedev
 A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game development IMHO
 
-## New Promising Items
 
+# Production Ready Items
 
 
 ## Game Engines
@@ -20,16 +20,9 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Coding Facilities
 
-* [aantron/better-enums](https://github.com/aantron/better-enums) (cpp) - C++ compile-time enum to string, iteration, in a single header file
-
-
 ## Data Structures and Algorithms
 
 * [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) (cpp) - Abseil Common Libraries (C++)
-* [greg7mdp/sparsepp](https://github.com/greg7mdp/sparsepp) (cpp) - A fast, memory efficient hash map for C++
-* [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
-* [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
-* [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
 
 ## Foundation Libraries
 
@@ -42,17 +35,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Saving/Loading Objects, Compositing Packets
 
-* [google/flatbuffers](https://github.com/google/flatbuffers) (cpp) - FlatBuffers: Memory Efficient Serialization Library
 * [Tencent/rapidjson](https://github.com/Tencent/rapidjson) (cpp) - A fast JSON parser/generator for C++ with both SAX/DOM style API
-* [capnproto/capnproto](https://github.com/capnproto/capnproto) (cpp) - Cap'n Proto serialization/RPC system - core tools and C++ library
-* [USCiLab/cereal](https://github.com/USCiLab/cereal) (cpp) - A C++11 library for serialization
 * [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) (cpp) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
-* [zeux/pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
 
 ## Triangles , Geometry , Maths , Physics
-
-* [libigl/libigl](https://github.com/libigl/libigl) (cpp) - Simple C++ geometry processing library.
-* [google/mathfu](https://github.com/google/mathfu) (cpp) - C++ math library developed primarily for games focused on simplicity and efficiency.
 
 ## Libraries 
 
@@ -69,21 +55,16 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Reactive
 
-* [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++
-
 ## Concurrency
 
 * [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) (cpp) - A library of C++ coroutine abstractions for the coroutines TS
 
 ## File IO
 
-* [mandreyel/mio](https://github.com/mandreyel/mio) (cpp) - Cross-platform C++11 header-only library for memory mapped file IO
 
 ## Networking Libraries
 
-* [skypjack/uvw](https://github.com/skypjack/uvw) (cpp) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++
-* [boostorg/beast](https://github.com/boostorg/beast) (cpp) - HTTP and WebSocket built on Boost.Asio in C++11
-* [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) - Asio C++ Library
+* libuv
 
 ## Networking Libraries/Frameworks in Client Side
 
@@ -91,16 +72,14 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 
-* [chenshuo/muduo](https://github.com/chenshuo/muduo) - Event-driven network library for multi-threaded Linux server in C++11
-
 
 ## HTTP in Server Side
 
-* [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
+* ?
 
 ## Open Source Game Server
 
-* [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.34220, 3.3.5 = 3.3.5a.12340)
+* ?
 
 ## Communication between servers
 
@@ -109,10 +88,6 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Communication Clients
 
 * [microsoft/cpprestsdk](https://github.com/microsoft/cpprestsdk) (cpp) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
-* [whoshuu/cpr](https://github.com/whoshuu/cpr) (cpp) - C++ Requests: Curl for People, a spiritual port of Python Requests
-* [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) (cpp) - C++ client for making HTTP/REST requests
-* [jpbarrette/curlpp](https://github.com/jpbarrette/curlpp) (cpp) - C++ wrapper around libcURL
-* [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 
 ## Crypto
 
@@ -133,7 +108,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Profiling
 
-* [yse/easy_profiler](https://github.com/yse/easy_profiler) (cpp) - Lightweight profiler library for c++
+* Intel VTune
 
 ## Optimizations
 
@@ -146,7 +121,6 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Image Processing
 
-* [ermig1979/Simd](https://github.com/ermig1979/Simd) (cpp) - C++ image processing and machine learning library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM.
 
 ## ML , Deep Learning
 
@@ -157,7 +131,6 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Publishing Preparations
 
 * [google/libphonenumber](https://github.com/google/libphonenumber) (cpp) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
-
 
 
 ## Database Clients/Drivers
@@ -178,3 +151,79 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Open Sourced Games
 
+
+# Expetimental, For Studying 
+
+## Coding Facilities
+
+* [aantron/better-enums](https://github.com/aantron/better-enums) (cpp) - C++ compile-time enum to string, iteration, in a single header file
+
+## Data Structures and Algorithms
+
+* [greg7mdp/sparsepp](https://github.com/greg7mdp/sparsepp) (cpp) - A fast, memory efficient hash map for C++
+* [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
+* [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
+* [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
+
+
+## Saving/Loading Objects, Compositing Packets
+
+* [google/flatbuffers](https://github.com/google/flatbuffers) (cpp) - FlatBuffers: Memory Efficient Serialization Library
+* [capnproto/capnproto](https://github.com/capnproto/capnproto) (cpp) - Cap'n Proto serialization/RPC system - core tools and C++ library
+* [USCiLab/cereal](https://github.com/USCiLab/cereal) (cpp) - A C++11 library for serialization
+* [zeux/pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
+
+## Triangles , Geometry , Maths , Physics
+
+* [libigl/libigl](https://github.com/libigl/libigl) (cpp) - Simple C++ geometry processing library.
+* [google/mathfu](https://github.com/google/mathfu) (cpp) - C++ math library developed primarily for games focused on simplicity and efficiency.
+
+## Reactive
+
+* [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++
+
+
+## File IO
+
+* [mandreyel/mio](https://github.com/mandreyel/mio) (cpp) - Cross-platform C++11 header-only library for memory mapped file IO
+
+
+## Networking Libraries
+
+* [skypjack/uvw](https://github.com/skypjack/uvw) (cpp) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++
+* [boostorg/beast](https://github.com/boostorg/beast) (cpp) - HTTP and WebSocket built on Boost.Asio in C++11
+* [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) - Asio C++ Library
+
+## Networking Libraries/Frameworks in Server Side
+
+* [chenshuo/muduo](https://github.com/chenshuo/muduo) - Event-driven network library for multi-threaded Linux server in C++11
+
+
+## HTTP in Server Side
+
+* [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
+
+
+## Open Source Game Server
+
+* [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.34220, 3.3.5 = 3.3.5a.12340)
+
+## Communication Clients
+
+* [whoshuu/cpr](https://github.com/whoshuu/cpr) (cpp) - C++ Requests: Curl for People, a spiritual port of Python Requests
+* [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) (cpp) - C++ client for making HTTP/REST requests
+* [jpbarrette/curlpp](https://github.com/jpbarrette/curlpp) (cpp) - C++ wrapper around libcURL
+* [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
+
+## Profiling
+
+* [yse/easy_profiler](https://github.com/yse/easy_profiler) (cpp) - Lightweight profiler library for c++
+
+## Image Processing
+
+* [ermig1979/Simd](https://github.com/ermig1979/Simd) (cpp) - C++ image processing and machine learning library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM.
+
+
+## Distributed Systems
+
+* [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
