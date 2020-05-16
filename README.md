@@ -283,7 +283,9 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [google/mathfu](https://github.com/google/mathfu) (cpp) - C++ math library developed primarily for games focused on simplicity and efficiency.
 
 ## UI
+
 * http://www.gaclib.net/index.html - a GPU accelerated C++ User Interface library. 
+* https://github.com/vczh-libraries/GacUI
 
 ## Reactive
 
