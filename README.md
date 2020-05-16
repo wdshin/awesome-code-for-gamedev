@@ -233,6 +233,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Game Engines
 
 * https://github.com/godotengine/godot - Godot Engine – Multi-platform 2D and 3D game engine 
+* https://github.com/urho3d/Urho3D
 
 ## Frameworks
 
