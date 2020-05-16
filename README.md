@@ -1,7 +1,6 @@
 # awesome-code-for-gamedev
 A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game development IMHO
 
-## Table of contents
 
 ### Commercial Games 
 
@@ -9,7 +8,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ### Database Drivers
 
-* NoSQL Databases
+### NoSQL Databases
 
 ### Distributed Systems
 
