@@ -133,6 +133,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [microsoft/mimalloc](https://github.com/microsoft/mimalloc) (cpp) - A compact general purpose allocator with excellent performance. [MIT]
 
+## Compression
+
+* [facebook/zstd](https://github.com/facebook/zstd) (cpp) - Zstandard - Fast real-time compression algorithm
+
 ## Crypto
 
 * [weidai11/cryptopp](https://github.com/weidai11/cryptopp) (cpp) - free C++ class library of cryptographic schemes
@@ -318,6 +322,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Audio
 
+* https://github.com/kaldi-asr/kaldi
+* https://github.com/micknoise/Maximilian
 * http://www.openal.org/
 
 ## Distributed Systems
