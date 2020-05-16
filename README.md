@@ -101,7 +101,6 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) (cpp) - A library of C++ coroutine abstractions for the coroutines TS
 * [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) (cpp) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11 
-* [thrust](http://thrust.github.io/) (cpp) - a parallel algorithms library which resembles the C++ Standard Template Library (STL)
 
 ## GPU
 
@@ -305,6 +304,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Reactive
 
 * [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++
+
+## Concurrency & Parallelism
+
+* [thrust](http://thrust.github.io/) (cpp) - a parallel algorithms library which resembles the C++ Standard Template Library (STL)
 
 
 ## File IO
