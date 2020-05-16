@@ -81,6 +81,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) (cpp) - Embedded Scripting Language Designed for C++
 
+## Scripting
+
+* https://www.python.org/
+
 ## UI
 
 * [ocornut/imgui](https://github.com/ocornut/imgui) (cpp) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
