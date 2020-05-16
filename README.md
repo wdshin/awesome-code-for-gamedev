@@ -82,6 +82,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [google/flatbuffers](https://github.com/google/flatbuffers) (cpp) - FlatBuffers: Memory Efficient Serialization Library
 * [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) (cpp) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
 
+## Resources, FileSystem
+
 ## Tokenizer
 
 * https://github.com/microsoft/BlingFire
@@ -116,7 +118,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Sound
 
-## HCI(Human-Computer Interfaces)
+## Human Interface Devices
 
 ## Reactive
 
