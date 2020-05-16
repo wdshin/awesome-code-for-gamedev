@@ -64,7 +64,6 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Objects
 
-
 * [skypjack/entt](https://github.com/skypjack/entt) (cpp) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 * [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework) (cpp) - An Open Source Implementation of the Actor Model in C++
 * [Stiffstream/sobjectizer](https://github.com/Stiffstream/sobjectizer) (cpp) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. With performance, quality, and stability proved by years in the production.
@@ -73,6 +72,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * https://github.com/zmij/afsm
 
+## Game Mechanics
+
 ## Saving/Loading Objects, Compositing Packets
 
 * [simdjson/simdjson](https://github.com/simdjson/simdjson) (cpp) - Parsing gigabytes of JSON per second 
@@ -80,7 +81,6 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [danielparker/jsoncons](https://github.com/danielaparker/jsoncons) (cpp) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, CSV, MessagePack, CBOR, BSON, UBJSON
 * [google/flatbuffers](https://github.com/google/flatbuffers) (cpp) - FlatBuffers: Memory Efficient Serialization Library
 * [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) (cpp) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
-
 
 ## Tokenizer
 
@@ -104,10 +104,19 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * https://www.python.org/
 
-
 ## UI
 
 * [ocornut/imgui](https://github.com/ocornut/imgui) (cpp) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+
+## Animations
+
+## Particles
+
+## Physics
+
+## Sound
+
+## HCI(Human-Computer Interfaces)
 
 ## Reactive
 
