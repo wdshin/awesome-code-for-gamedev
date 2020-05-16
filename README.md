@@ -34,10 +34,11 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Game Development Tools
 
-### Graphics 
+### Graphics Tools
 
 * https://github.com/blender/blender
-
+* Maya
+* 3DSMax
 
 ## Coding Facilities
 
