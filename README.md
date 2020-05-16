@@ -60,11 +60,11 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Saving/Loading Objects, Compositing Packets
 
-
-* [Tencent/rapidjson](https://github.com/Tencent/rapidjson) (cpp) - A fast JSON parser/generator for C++ with both SAX/DOM style API
-* [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) (cpp) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
 * [simdjson/simdjson](https://github.com/simdjson/simdjson) (cpp) - Parsing gigabytes of JSON per second 
-
+* [Tencent/rapidjson](https://github.com/Tencent/rapidjson) (cpp) - A fast JSON parser/generator for C++ with both SAX/DOM style API
+* [danielparker/jsoncons](https://github.com/danielaparker/jsoncons) (cpp) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, CSV, MessagePack, CBOR, BSON, UBJSON
+* [google/flatbuffers](https://github.com/google/flatbuffers) (cpp) - FlatBuffers: Memory Efficient Serialization Library
+* [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) (cpp) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
 
 
 ## Tokenizer
@@ -291,7 +291,6 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Saving/Loading Objects, Compositing Packets
 
 * [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) (cpp) - Header-only TOML config file parser and serializer for modern C++. 
-* [google/flatbuffers](https://github.com/google/flatbuffers) (cpp) - FlatBuffers: Memory Efficient Serialization Library
 * [capnproto/capnproto](https://github.com/capnproto/capnproto) (cpp) - Cap'n Proto serialization/RPC system - core tools and C++ library
 * [USCiLab/cereal](https://github.com/USCiLab/cereal) (cpp) - A C++11 library for serialization
 * [zeux/pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
@@ -301,6 +300,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://github.com/nlohmann/json
 * https://github.com/Neargye/magic_enum
 * https://github.com/leapmotion/leapserial
+* https://github.com/nlohmann/json
 
 
 ## Triangles , Geometry , Maths , Physics
