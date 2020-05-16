@@ -11,6 +11,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
 
+## Rendering
+
+* https://github.com/bkaradzic/bgfx
+
 ## Game Development Tools
 
 ### Graphics 
@@ -55,6 +59,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Libraries 
 
 * [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+* https://github.com/fmtlib/fmt
 
 
 ## Logic Scripts
@@ -140,8 +145,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [aws/aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) (cpp) - AWS SDK for C++
 
-## Image Processing
+## Image Processing , Computer Vision
 
+* https://github.com/ImageMagick/ImageMagick
+* https://github.com/opencv/opencv
 
 ## ML , Deep Learning
 
@@ -162,11 +169,16 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [postgres/postgres](https://github.com/postgres/postgres) (c) - The World's Most Advanced Open Source Relational Database
 * [scylladb/scylla](https://github.com/scylladb/scylla) (cpp) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+* https://github.com/facebook/rocksdb
 
 
 ## Distributed Systems
 
 * [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
+
+## Audio
+
+* https://www.fmod.com/
 
 ## Commercial Games 
 
@@ -275,6 +287,9 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [ermig1979/Simd](https://github.com/ermig1979/Simd) (cpp) - C++ image processing and machine learning library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM.
 
+## Audio
+
+* http://www.openal.org/
 
 ## Distributed Systems
 
