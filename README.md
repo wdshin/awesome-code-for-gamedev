@@ -102,6 +102,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Networking Libraries
 
+* https://cpp.libhunt.com/compare-libev-vs-libuv
 * libuv
 * https://libevent.org/
 
