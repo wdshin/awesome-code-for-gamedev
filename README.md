@@ -41,8 +41,16 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [Tencent/rapidjson](https://github.com/Tencent/rapidjson) (cpp) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 * [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) (cpp) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
+* [simdjson/simdjson](https://github.com/simdjson/simdjson) (cpp) - Parsing gigabytes of JSON per second 
+
+
+## Tokenizer
+
+* https://github.com/microsoft/BlingFire
 
 ## Triangles , Geometry , Maths , Physics
+
+* [NVIDIAGameWorks/Physx-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4)(cpp) PhysX - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. [BSD-3-Clause]
 
 ## Libraries 
 
@@ -74,7 +82,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Networking Libraries/Frameworks in Server Side
 
-* [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
+* [scylladb/seastar](https://github.com/scylladb/seastar) (cpp) - High performance server-side application framework
+* [pocoproject/poco](https://github.com/pocoproject/poco) (cpp) - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost] 
 
 
 ## HTTP in Server Side
@@ -92,6 +101,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Communication Clients
 
 * [microsoft/cpprestsdk](https://github.com/microsoft/cpprestsdk) (cpp) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+
+## Memory Allocators
+
+* [microsoft/mimalloc](https://github.com/microsoft/mimalloc) (cpp) - A compact general purpose allocator with excellent performance. [MIT]
 
 ## Crypto
 
@@ -118,6 +131,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [cpp-taskflow/cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow) (cpp) - Modern C++ Parallel Task Programming
 * [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) (cpp) - ArrayFire: a general purpose GPU library.
+
+## Library Manager 
+
+* https://github.com/microsoft/vcpkg - C++ Library Manager for Windows, Linux, and MacOS 
 
 ## Clouds
 
@@ -238,6 +255,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [jpbarrette/curlpp](https://github.com/jpbarrette/curlpp) (cpp) - C++ wrapper around libcURL
 * [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 
+## Memory Allocator
+
+* https://github.com/microsoft/snmalloc
+
 ## Profiling
 
 * [yse/easy_profiler](https://github.com/yse/easy_profiler) (cpp) - Lightweight profiler library for c++
@@ -250,3 +271,4 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Distributed Systems
 
 * [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
+
