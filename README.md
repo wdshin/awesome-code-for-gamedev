@@ -317,6 +317,12 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++
 
+## Behavior Tree
+
+* https://www.behaviortree.dev/
+* https://github.com/BehaviorTree/BehaviorTree.CPP
+* https://github.com/arvidsson/BrainTree
+
 ## Concurrency & Parallelism
 
 * [thrust](http://thrust.github.io/) (cpp) - a parallel algorithms library which resembles the C++ Standard Template Library (STL)
