@@ -347,6 +347,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://github.com/nlohmann/json
 * https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime
 * https://github.com/WhiZTiM/UbjsonCpp
+* https://github.com/liteserver/binn
 
 ## Triangles , Geometry , Maths , Physics
 
