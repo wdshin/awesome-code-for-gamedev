@@ -309,6 +309,12 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [thrust](http://thrust.github.io/) (cpp) - a parallel algorithms library which resembles the C++ Standard Template Library (STL)
 
+## GPGPU
+
+* https://github.com/triSYCL/triSYCL
+* https://github.com/KhronosGroup/SyclParallelSTL
+* https://github.com/illuhad/hipSYCL
+
 
 ## File IO
 
