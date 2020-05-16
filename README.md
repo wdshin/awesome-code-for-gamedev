@@ -186,6 +186,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Data Structures and Algorithms
 
 * [orlp/pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. 
+* [timesort/cpp-TimeSort](https://github.com/timsort/cpp-TimSort) - A C++ implementation of timsort 
+
 * [greg7mdp/sparsepp](https://github.com/greg7mdp/sparsepp) (cpp) - A fast, memory efficient hash map for C++
 * [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 * [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
@@ -247,6 +249,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## HTTP in Server Side
 
 * [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
+* [oktal/pistache](https://github.com/oktal/pistache) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
 
 
 ## Open Source Game Server
