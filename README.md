@@ -171,6 +171,9 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [xorz57/forest](https://github.com/xorz57/forest) - Template Library of Tree Data Structures in C++17
 * [mattreecebentley/plf_list](https://github.com/mattreecebentley/plf_list) (cpp) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. [zLib] 
 * [mattreecebentley/plf_stack](https://github.com/mattreecebentley/plf_stack) (cpp)- A C++ data container replicating std::stack functionality but with better performance than standard library containers in a stack context. 
+* https://github.com/Tessil/robin-map - C++ implementation of a fast hash map and hash set using robin hood hashing 
+* https://github.com/martinus/robin-hood-hashing - Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20 
+
 
 ## Objects
 
