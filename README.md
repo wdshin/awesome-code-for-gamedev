@@ -147,8 +147,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Footprints , Logging
 
+* [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog) (cpp) - an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API. 
+* [odygrd/quill](https://github.com/odygrd/quill) (cpp) - Asynchronous Low Latency Logging Library  
 * [gabime/spdlog](https://github.com/gabime/spdlog) (cpp) - Fast C++ logging library.
-* [amrayn/easyloggingpp](https://github.com/amrayn/easyloggingpp) - Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
+
 
 ## Profiling
 
