@@ -317,6 +317,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Objects
 
+* https://github.com/miguelmartin75/anax
+
 ## Saving/Loading Objects, Compositing Packets
 
 * [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) (cpp) - Header-only TOML config file parser and serializer for modern C++. 
