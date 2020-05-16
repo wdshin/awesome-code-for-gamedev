@@ -22,7 +22,13 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Package Manager
 
-* https://github.com/conan-io/conan
+* [vcpkg](https://github.com/Microsoft/vcpkg) (cpp)
+
+* https://www.reddit.com/r/cpp/comments/8t0ufu/what_is_a_good_package_manager_for_c/
+* [conan](https://github.com/conan-io/conan) (cpp)
+
+* [buckaroo](https://github.com/LoopPerfect/buckaroo) (cpp)
+* [hunter](https://hunter.readthedocs.io/en/latest/) (cpp)
 
 ## Build
 
@@ -246,6 +252,14 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://github.com/godotengine/godot - Godot Engine – Multi-platform 2D and 3D game engine 
 * https://github.com/urho3d/Urho3D
 * https://github.com/Gamua/Starling-Framework
+
+## Package Manager
+
+* https://www.reddit.com/r/cpp/comments/8t0ufu/what_is_a_good_package_manager_for_c/
+* [conan](https://github.com/conan-io/conan) (cpp)
+* [buckaroo](https://github.com/LoopPerfect/buckaroo) (cpp)
+* [hunter](https://hunter.readthedocs.io/en/latest/) (cpp)
+
 
 ## DirectX, OpenGL, OpenGLES , Vulkan , Metal
 
