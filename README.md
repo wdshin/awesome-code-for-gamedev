@@ -11,6 +11,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
 
+## Frameworks
+
+* https://juce.com/
+
 ## Rendering
 
 * https://github.com/bkaradzic/bgfx
@@ -82,6 +86,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Networking Libraries
 
 * libuv
+* https://libevent.org/
 
 ## Networking Libraries/Frameworks in Client Side
 
