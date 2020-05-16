@@ -339,6 +339,12 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [libigl/libigl](https://github.com/libigl/libigl) (cpp) - Simple C++ geometry processing library.
 * [google/mathfu](https://github.com/google/mathfu) (cpp) - C++ math library developed primarily for games focused on simplicity and efficiency.
 
+## Animation
+
+* https://github.com/guillaumeblanc/ozz-animation
+
+## Physics
+
 ## UI
 
 * http://www.gaclib.net/index.html - a GPU accelerated C++ User Interface library. 
