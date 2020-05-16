@@ -50,6 +50,11 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://github.com/acgessler/assimp-cinema4d
 * https://github.com/PluginCafe
 
+## Landscape, World
+
+* SpeedTree
+* TrueSky
+
 ## Coding Facilities
 
 * https://liveplusplus.tech/
@@ -119,6 +124,9 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Physics
 
 ## Sound
+
+* wwise
+* fmod
 
 ## Human Interface Devices
 
