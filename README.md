@@ -57,6 +57,9 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework) (cpp) - An Open Source Implementation of the Actor Model in C++
 * [Stiffstream/sobjectizer](https://github.com/Stiffstream/sobjectizer) (cpp) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. With performance, quality, and stability proved by years in the production.
 
+## Finiate State Machine
+
+* https://github.com/zmij/afsm
 
 ## Saving/Loading Objects, Compositing Packets
 
@@ -88,6 +91,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Scripting
 
 * https://www.python.org/
+
 
 ## UI
 
@@ -324,7 +328,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * https://github.com/digint/tinyfsm
 * https://github.com/eglimi/cppfsm
-* https://github.com/zmij/afsm
+
 * https://github.com/endurodave/StateMachine
 * 
 ## Behavior Tree
