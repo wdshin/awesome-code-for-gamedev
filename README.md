@@ -65,6 +65,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [simdjson/simdjson](https://github.com/simdjson/simdjson) (cpp) - Parsing gigabytes of JSON per second 
 
 
+
 ## Tokenizer
 
 * https://github.com/microsoft/BlingFire
@@ -205,6 +206,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Database Clients/Drivers
 
 * [dmitigr/pgfe](https://github.com/dmitigr/pgfe) (cpp) - The PostgreSQL client API in modern C++
+* https://github.com/redis/hiredis
 
 ## Databases
 
@@ -337,6 +339,11 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://github.com/kaldi-asr/kaldi
 * https://github.com/micknoise/Maximilian
 * http://www.openal.org/
+
+# Databases
+
+* https://github.com/paulftw/hiberlite
+
 
 ## Distributed Systems
 
