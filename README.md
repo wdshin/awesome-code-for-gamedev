@@ -345,6 +345,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://github.com/BehaviorTree/BehaviorTree.CPP
 * https://github.com/arvidsson/BrainTree
 
+## AI , Machine Learning
+
+* http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 ## Concurrency & Parallelism
 
 * [thrust](http://thrust.github.io/) (cpp) - a parallel algorithms library which resembles the C++ Standard Template Library (STL)
