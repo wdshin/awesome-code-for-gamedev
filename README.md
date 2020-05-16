@@ -278,6 +278,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://github.com/fraillt/bitsery
 * https://github.com/Microsoft/bond
 * https://github.com/nlohmann/json
+* https://github.com/Neargye/magic_enum
+* https://github.com/leapmotion/leapserial
 
 
 ## Triangles , Geometry , Maths , Physics
