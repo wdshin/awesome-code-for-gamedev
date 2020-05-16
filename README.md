@@ -38,6 +38,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Saving/Loading Objects, Compositing Packets
 
+
 * [Tencent/rapidjson](https://github.com/Tencent/rapidjson) (cpp) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 * [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) (cpp) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
 
@@ -170,7 +171,9 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Objects
 
+## Saving/Loading Objects, Compositing Packets
 
+* [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) (cpp) - Header-only TOML config file parser and serializer for modern C++. 
 
 
 ## Saving/Loading Objects, Compositing Packets
