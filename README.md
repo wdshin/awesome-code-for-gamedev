@@ -341,10 +341,14 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://github.com/micknoise/Maximilian
 * http://www.openal.org/
 
-# Databases
+## Databases
 
 * https://github.com/paulftw/hiberlite
 * https://github.com/ClickHouse/ClickHouse
+
+## WebView
+
+* https://github.com/zserge/webview
 
 ## Distributed Systems
 
