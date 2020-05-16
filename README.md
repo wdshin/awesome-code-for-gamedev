@@ -13,7 +13,18 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Frameworks
 
+## IDE
 
+* Visual Studio
+* CLion
+
+## Package Manager
+
+* https://github.com/conan-io/conan
+
+## Build
+
+* CMake
 
 ## Rendering
 
