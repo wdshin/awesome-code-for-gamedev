@@ -131,9 +131,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * ?
 
-## Communication between servers
+## Communication between servers , Interprocess Communications
 
 * [grpc/grpc](https://github.com/grpc/grpc) (cpp) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+* https://github.com/apache/thrift
 
 ## Communication Clients
 
@@ -259,15 +260,15 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://github.com/martinus/robin-hood-hashing - Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20 
 * https://github.com/faragon/libsrt
 
+## i18n
+
+* https://github.com/sheredom/utf8.h
+
 ## Objects
 
 ## Saving/Loading Objects, Compositing Packets
 
 * [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) (cpp) - Header-only TOML config file parser and serializer for modern C++. 
-
-
-## Saving/Loading Objects, Compositing Packets
-
 * [google/flatbuffers](https://github.com/google/flatbuffers) (cpp) - FlatBuffers: Memory Efficient Serialization Library
 * [capnproto/capnproto](https://github.com/capnproto/capnproto) (cpp) - Cap'n Proto serialization/RPC system - core tools and C++ library
 * [USCiLab/cereal](https://github.com/USCiLab/cereal) (cpp) - A C++11 library for serialization
@@ -275,6 +276,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * https://github.com/niXman/yas
 * https://github.com/fraillt/bitsery
 * https://github.com/Microsoft/bond
+* https://github.com/nlohmann/json
 
 
 ## Triangles , Geometry , Maths , Physics
