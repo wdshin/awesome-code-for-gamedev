@@ -320,6 +320,13 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++
 
+## Finite State Machine
+
+* https://github.com/digint/tinyfsm
+* https://github.com/eglimi/cppfsm
+* https://github.com/zmij/afsm
+* https://github.com/endurodave/StateMachine
+* 
 ## Behavior Tree
 
 * https://www.behaviortree.dev/
