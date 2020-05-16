@@ -282,6 +282,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [conan](https://github.com/conan-io/conan) (cpp)
 * [buckaroo](https://github.com/LoopPerfect/buckaroo) (cpp)
 * [hunter](https://hunter.readthedocs.io/en/latest/) (cpp)
+* https://bitbucket.org/benman/teaport/src/master/
 
 ## Renderer + UI
 
@@ -388,6 +389,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Concurrency & Parallelism
 
+* https://github.com/RaftLib/RaftLib
 * [thrust](http://thrust.github.io/) (cpp) - a parallel algorithms library which resembles the C++ Standard Template Library (STL)
 
 ## GPGPU
