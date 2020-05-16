@@ -40,6 +40,16 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * Maya
 * 3DSMax
 
+## 3D Content Format
+
+* https://github.com/KhronosGroup/OpenCOLLADA
+* https://www.autodesk.com/developer-network/platform-technologies/fbx
+* https://www.autodesk.com/developer-network/platform-technologies/maya
+* https://developers.maxon.net/?page_id=1118
+* https://github.com/assimp/assimp
+* https://github.com/acgessler/assimp-cinema4d
+* https://github.com/PluginCafe
+
 ## Coding Facilities
 
 ## Data Structures and Algorithms
