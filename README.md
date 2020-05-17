@@ -294,6 +294,11 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [hunter](https://hunter.readthedocs.io/en/latest/) (cpp)
 * https://bitbucket.org/benman/teaport/src/master/
 
+## Graphics
+
+* https://developer.nvidia.com/gpugems/gpugems/contributors
+* https://pdfs.semanticscholar.org/e5c1/ecbe16382f303cd14228a53864acc3603101.pdf
+
 ## Renderer + UI
 
 * https://github.com/bkaradzic/bgfx/blob/master/examples/common/imgui/imgui.cpp
