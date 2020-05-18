@@ -40,6 +40,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * Maya
 * 3DSMax
 
+## 2D Graphics Tools
+
+* https://www.synfig.org/
+
 ## Bitmap Compression
 
 * https://pngquant.org/
