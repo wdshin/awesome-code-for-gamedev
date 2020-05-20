@@ -70,32 +70,32 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Data Structures and Algorithms
 
-* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) (cpp) - Abseil Common Libraries (C++)
+* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) (cpp)(vcpkg) - Abseil Common Libraries (C++)
 
 ## Foundation Libraries
 
-* [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
+* [facebook/folly](https://github.com/facebook/folly) (cpp)(vcpkg) - An open-source C++ library developed and used at Facebook.
 
 ## Objects
 
-* [skypjack/entt](https://github.com/skypjack/entt) (cpp) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+* [skypjack/entt](https://github.com/skypjack/entt) (cpp)(vcpkg) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 * [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework) (cpp) - An Open Source Implementation of the Actor Model in C++
-* [Stiffstream/sobjectizer](https://github.com/Stiffstream/sobjectizer) (cpp) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. With performance, quality, and stability proved by years in the production.
+* [Stiffstream/sobjectizer](https://github.com/Stiffstream/sobjectizer) (cpp)(vcpkg) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. With performance, quality, and stability proved by years in the production.
 
 ## Finiate State Machine
-
+v
 * https://github.com/zmij/afsm
 
 ## Game Mechanics
 
 ## Saving/Loading Objects, Compositing Packets
 
-* [fraillt/bitsery](https://github.com/fraillt/bitsery) (cpp) - Header only C++ binary serialization library. It is designed around the networking requirements for real-time data delivery, especially for games.
-* [simdjson/simdjson](https://github.com/simdjson/simdjson) (cpp) - Parsing gigabytes of JSON per second 
-* [Tencent/rapidjson](https://github.com/Tencent/rapidjson) (cpp) - A fast JSON parser/generator for C++ with both SAX/DOM style API
-* [danielparker/jsoncons](https://github.com/danielaparker/jsoncons) (cpp) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, CSV, MessagePack, CBOR, BSON, UBJSON
-* [google/flatbuffers](https://github.com/google/flatbuffers) (cpp) - FlatBuffers: Memory Efficient Serialization Library
-* [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) (cpp) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
+* [fraillt/bitsery](https://github.com/fraillt/bitsery) (cpp)(vcpkg) - Header only C++ binary serialization library. It is designed around the networking requirements for real-time data delivery, especially for games.
+* [simdjson/simdjson](https://github.com/simdjson/simdjson) (cpp)(vcpkg) - Parsing gigabytes of JSON per second 
+* [Tencent/rapidjson](https://github.com/Tencent/rapidjson) (cpp)(vcpkg) - A fast JSON parser/generator for C++ with both SAX/DOM style API
+* [danielparker/jsoncons](https://github.com/danielaparker/jsoncons) (cpp)(vcpkg) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, CSV, MessagePack, CBOR, BSON, UBJSON
+* [google/flatbuffers](https://github.com/google/flatbuffers) (cpp)(vcpkg) - FlatBuffers: Memory Efficient Serialization Library
+* [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) (cpp)(vcpkg) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
 
 ## Resources, FileSystem
 
@@ -105,17 +105,17 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Triangles , Geometry , Maths , Physics
 
-* [NVIDIAGameWorks/Physx-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4)(cpp) PhysX - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. [BSD-3-Clause]
+* [NVIDIAGameWorks/Physx-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4)(cpp)(vcpkg) PhysX - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. [BSD-3-Clause]
 
 ## Libraries 
 
-* [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-* https://github.com/fmtlib/fmt
+* [google/re2](https://github.com/google/re2) (cpp)(vcpkg) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+* [fmtlib/fmt](https://github.com/fmtlib/fmt) (cpp)(vcpkg)
 
 
 ## Logic Scripts
 
-* [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) (cpp) - Embedded Scripting Language Designed for C++
+* [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) (cpp)(vcpkg) - Embedded Scripting Language Designed for C++
 
 ## Scripting
 
@@ -123,7 +123,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## UI
 
-* [ocornut/imgui](https://github.com/ocornut/imgui) (cpp) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+* [ocornut/imgui](https://github.com/ocornut/imgui) (cpp)(vcpkg) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 
 ## Animations
 
@@ -147,8 +147,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Concurrency & Parallelism
 
-* [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) (cpp) - A library of C++ coroutine abstractions for the coroutines TS
-* [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) (cpp) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11 
+* [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) (cpp)(vcpkg) - A library of C++ coroutine abstractions for the coroutines TS
+* [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) (cpp)(vcpkg) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11 
 
 ## GPU
 
@@ -160,7 +160,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Networking Libraries
 
 * https://cpp.libhunt.com/compare-libev-vs-libuv
-* [libuv/libuv](https://github.com/libuv/libuv) (cpp) - Cross-platform asynchronous I/O 
+* [libuv/libuv](https://github.com/libuv/libuv) (cpp)(vcpkg) - Cross-platform asynchronous I/O 
 
 ## Networking Libraries/Frameworks in Client Side
 
@@ -438,7 +438,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Networking Libraries
 
-* [skypjack/uvw](https://github.com/skypjack/uvw) (cpp) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++
+* [skypjack/uvw](https://github.com/skypjack/uvw) (cpp)(vcpkg) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++
 * [boostorg/beast](https://github.com/boostorg/beast) (cpp) - HTTP and WebSocket built on Boost.Asio in C++11
 * [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) - Asio C++ Library
 
