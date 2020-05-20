@@ -495,7 +495,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## WebView
 
-* https://github.com/zserge/webview
+* https://github.com/zserge/webview (cpp)
+* https://github.com/zserge/lorca (go)
 
 ## Distributed Systems
 
