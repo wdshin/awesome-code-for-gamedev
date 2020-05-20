@@ -63,6 +63,7 @@ Version 0.1
 ## Middlewares
 
 * https://www.mcvuk.com/development-news/12-animation-tools-to-bring-your-game-characters-to-life/
+* https://www.popcornfx.com/
 
 ## Landscape, World
 
