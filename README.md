@@ -83,7 +83,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * [Stiffstream/sobjectizer](https://github.com/Stiffstream/sobjectizer) (cpp)(vcpkg) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. With performance, quality, and stability proved by years in the production.
 
 ## Finiate State Machine
-v
+
 * https://github.com/zmij/afsm
 
 ## Game Mechanics
@@ -344,7 +344,7 @@ v
 * [mattreecebentley/plf_list](https://github.com/mattreecebentley/plf_list) (cpp) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. [zLib] 
 * [mattreecebentley/plf_stack](https://github.com/mattreecebentley/plf_stack) (cpp)- A C++ data container replicating std::stack functionality but with better performance than standard library containers in a stack context. 
 * [Tessil/robin-map](https://github.com/Tessil/robin-map) (cpp)(vcpkg)- C++ implementation of a fast hash map and hash set using robin hood hashing 
-* [Tessil/robin-hood-hashing](https://github.com/martinus/robin-hood-hashing (cpp)(vcpkg)- Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20 
+* [Tessil/robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) (cpp)(vcpkg)- Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20 
 * https://github.com/faragon/libsrt
 * https://github.com/electronicarts/EASTL
 
