@@ -434,14 +434,14 @@ v
 
 ## File IO
 
-* [mandreyel/mio](https://github.com/mandreyel/mio) (cpp) - Cross-platform C++11 header-only library for memory mapped file IO
+* [mandreyel/mio](https://github.com/mandreyel/mio) (cpp)(vcpkg) - Cross-platform C++11 header-only library for memory mapped file IO
 
 
 ## Networking Libraries
 
 * [skypjack/uvw](https://github.com/skypjack/uvw) (cpp)(vcpkg) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++
-* [boostorg/beast](https://github.com/boostorg/beast) (cpp) - HTTP and WebSocket built on Boost.Asio in C++11
-* [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) - Asio C++ Library
+* [boostorg/beast](https://github.com/boostorg/beast) (cpp)(vcpkg) - HTTP and WebSocket built on Boost.Asio in C++11
+* [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) (cpp)(vcpkg)- Asio C++ Library
 
 ## Networking Libraries/Frameworks in Server Side
 
@@ -450,7 +450,7 @@ v
 
 ## HTTP in Server Side
 
-* [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
+* [ipkn/crow](https://github.com/ipkn/crow) (cpp)(vcpkg)- Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 * [oktal/pistache](https://github.com/oktal/pistache) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
 * https://github.com/oatpp/oatpp
 
@@ -461,7 +461,7 @@ v
 
 ## Communication Clients
 
-* [whoshuu/cpr](https://github.com/whoshuu/cpr) (cpp) - C++ Requests: Curl for People, a spiritual port of Python Requests
+* [whoshuu/cpr](https://github.com/whoshuu/cpr) (cpp)(vcpkg) - C++ Requests: Curl for People, a spiritual port of Python Requests
 * [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) (cpp) - C++ client for making HTTP/REST requests
 * [jpbarrette/curlpp](https://github.com/jpbarrette/curlpp) (cpp) - C++ wrapper around libcURL
 * [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
