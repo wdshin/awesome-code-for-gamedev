@@ -131,11 +131,14 @@ Version 0.1
 
 ## Navigation , Pathfinding
 
+* https://www.havok.com/products/
+
 ## Particles
 
 ## Physics
 
 * https://github.com/bulletphysics/bullet3
+* https://www.havok.com/products/
 
 ## Sound
 
