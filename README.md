@@ -62,7 +62,7 @@ Version 0.1
 
 ## Landscape, World
 
-* SpeedTree
+* [SpeedTree](https://store.speedtree.com/) 
 * TrueSky
 
 ## Coding Facilities
@@ -128,6 +128,8 @@ Version 0.1
 * [ocornut/imgui](https://github.com/ocornut/imgui) (cpp)(vcpkg) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 
 ## Animations
+
+* https://knowledge.autodesk.com/support/maya-lt/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/MayaLT/files/GUID-EDBDA3DB-4715-40EF-9ADF-412F78BFF98E-htm.html
 
 ## Navigation , Pathfinding
 
@@ -510,6 +512,8 @@ Version 0.1
 ## Distributed Systems
 
 * [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
+
+## Test Automation
 
 ## VM
 
