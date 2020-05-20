@@ -360,10 +360,10 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Saving/Loading Objects, Compositing Packets
 
 * [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) (cpp) - Header-only TOML config file parser and serializer for modern C++. 
-* [capnproto/capnproto](https://github.com/capnproto/capnproto) (cpp) - Cap'n Proto serialization/RPC system - core tools and C++ library
-* [USCiLab/cereal](https://github.com/USCiLab/cereal) (cpp) - A C++11 library for serialization
-* [zeux/pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
-* https://github.com/niXman/yas
+* [capnproto/capnproto](https://github.com/capnproto/capnproto) (cpp)(vcpkg) - Cap'n Proto serialization/RPC system - core tools and C++ library
+* [USCiLab/cereal](https://github.com/USCiLab/cereal) (cpp)(vcpkg) - A C++11 library for serialization
+* [zeux/pugixml](https://github.com/zeux/pugixml) (cpp)(vcpkg)- Light-weight, simple and fast XML parser for C++ with XPath support
+* https://github.com/niXman/yas (cpp)(vcpkg) - Yet Another Serialization is a header only serialization library
 * https://github.com/fraillt/bitsery
 * https://github.com/Microsoft/bond
 * https://github.com/nlohmann/json
@@ -376,7 +376,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Triangles , Geometry , Maths , Physics
 
-* [libigl/libigl](https://github.com/libigl/libigl) (cpp) - Simple C++ geometry processing library.
+* [libigl/libigl](https://github.com/libigl/libigl) (cpp)(vcpkg) - Simple C++ geometry processing library.
 * [google/mathfu](https://github.com/google/mathfu) (cpp) - C++ math library developed primarily for games focused on simplicity and efficiency.
 
 ## Animation
@@ -451,7 +451,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## HTTP in Server Side
 
 * [ipkn/crow](https://github.com/ipkn/crow) (cpp)(vcpkg)- Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
-* [oktal/pistache](https://github.com/oktal/pistache) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
+* [oktal/pistache](https://github.com/oktal/pistache) (cpp)(vcpkg)- Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
 * https://github.com/oatpp/oatpp
 
 ## Open Source Game Server
@@ -462,9 +462,9 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Communication Clients
 
 * [whoshuu/cpr](https://github.com/whoshuu/cpr) (cpp)(vcpkg) - C++ Requests: Curl for People, a spiritual port of Python Requests
-* [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) (cpp) - C++ client for making HTTP/REST requests
-* [jpbarrette/curlpp](https://github.com/jpbarrette/curlpp) (cpp) - C++ wrapper around libcURL
-* [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
+* [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) (cpp)(vcpkg) - C++ client for making HTTP/REST requests
+* [jpbarrette/curlpp](https://github.com/jpbarrette/curlpp) (cpp)(vcpkg) - C++ wrapper around libcURL
+* [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) (cpp)(vcpkg)- A C++ header-only HTTP/HTTPS server and client library
 
 ## Communication between servers , Interprocess Communications
 
