@@ -90,6 +90,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Saving/Loading Objects, Compositing Packets
 
+* [fraillt/bitsery](https://github.com/fraillt/bitsery) (cpp) - Header only C++ binary serialization library. It is designed around the networking requirements for real-time data delivery, especially for games.
 * [simdjson/simdjson](https://github.com/simdjson/simdjson) (cpp) - Parsing gigabytes of JSON per second 
 * [Tencent/rapidjson](https://github.com/Tencent/rapidjson) (cpp) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 * [danielparker/jsoncons](https://github.com/danielaparker/jsoncons) (cpp) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, CSV, MessagePack, CBOR, BSON, UBJSON
