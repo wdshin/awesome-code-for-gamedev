@@ -214,7 +214,7 @@ v
 
 ## Code Stability
 
-* [catchorg/Catch2](https://github.com/catchorg/Catch2) (cpp) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+* [catchorg/Catch2](https://github.com/catchorg/Catch2) (cpp)(vcpkg) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
 
 ## Code Analysis
 
@@ -223,8 +223,8 @@ v
 ## Footprints , Logging
 
 * [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog) (cpp) - an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API. 
-* [odygrd/quill](https://github.com/odygrd/quill) (cpp) - Asynchronous Low Latency Logging Library  
-* [gabime/spdlog](https://github.com/gabime/spdlog) (cpp) - Fast C++ logging library.
+* [odygrd/quill](https://github.com/odygrd/quill) (cpp)(vcpkg) - Asynchronous Low Latency Logging Library  
+* [gabime/spdlog](https://github.com/gabime/spdlog) (cpp)(vcpkg) - Fast C++ logging library.
 
 
 ## Profiling
@@ -233,7 +233,7 @@ v
 
 ## Optimizations
 
-* [cpp-taskflow/cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow) (cpp) - Modern C++ Parallel Task Programming
+* [cpp-taskflow/cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow) (cpp)(vcpkg) - Modern C++ Parallel Task Programming
 * [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) (cpp) - ArrayFire: a general purpose GPU library.
 * https://godbolt.org/
 
@@ -252,7 +252,7 @@ v
 
 ## ML , Deep Learning
 
-* [BVLC/caffe](https://github.com/BVLC/caffe) (cpp) - Caffe: a fast open framework for deep learning.
+* [BVLC/caffe](https://github.com/BVLC/caffe) (cpp)(vcpkg) - Caffe: a fast open framework for deep learning.
 
 ## API services
 
@@ -333,7 +333,7 @@ v
 
 ## Data Structures and Algorithms
 
-* [orlp/pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. 
+* [orlp/pdqsort](https://github.com/orlp/pdqsort)(vcpkg) - Pattern-defeating quicksort. 
 * [timesort/cpp-TimeSort](https://github.com/timsort/cpp-TimSort) - A C++ implementation of timsort 
 
 * [greg7mdp/sparsepp](https://github.com/greg7mdp/sparsepp) (cpp) - A fast, memory efficient hash map for C++
@@ -400,10 +400,11 @@ v
 
 ## Reactive
 
-* [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++
+* [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) (cpp)(vcpkg) - Reactive Extensions for C++
 
 ## Finite State Machine
 
+* [andrew-gresylk/HFSM2](https://github.com/andrew-gresyk/HFSM2) (cpp)(vcpkg) - High-Performance Hierarchical Finite State Machine Framework
 * https://github.com/digint/tinyfsm
 * https://github.com/eglimi/cppfsm
 
