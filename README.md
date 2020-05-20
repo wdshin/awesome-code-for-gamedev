@@ -1,9 +1,10 @@
 # awesome-code-for-gamedev
+
 A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game development IMHO
 
+Version 0.1
 
 # Production Ready Items
-
 
 ## Game Engines
 
@@ -84,7 +85,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Finiate State Machine
 
-* https://github.com/zmij/afsm
+* [andrew-gresylk/HFSM2](https://github.com/andrew-gresyk/HFSM2) (cpp)(vcpkg) - High-Performance Hierarchical Finite State Machine Framework
+* [zmij/afsm](https://github.com/zmij/afsm) (cpp)- C++14 Finite State Machine library 
 
 ## Game Mechanics
 
@@ -142,8 +144,8 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Reactive
 
+* [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) (cpp)(vcpkg) - Reactive Extensions for C++
 * [schlangster/cpp.react](https://github.com/schlangster/cpp.react) (cpp) - C++React: A reactive programming library for C++11. 
-
 
 ## Concurrency & Parallelism
 
@@ -161,6 +163,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * https://cpp.libhunt.com/compare-libev-vs-libuv
 * [libuv/libuv](https://github.com/libuv/libuv) (cpp)(vcpkg) - Cross-platform asynchronous I/O 
+* [skypjack/uvw](https://github.com/skypjack/uvw) (cpp)(vcpkg) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++
 
 ## Networking Libraries/Frameworks in Client Side
 
@@ -168,7 +171,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 * [scylladb/seastar](https://github.com/scylladb/seastar) (cpp) - High performance server-side application framework
 * [pocoproject/poco](https://github.com/pocoproject/poco) (cpp) - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost] 
-* [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) (cpp) - Simple, secure & standards compliant web server for the most demanding of applications 
+* [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) (cpp)(vcpkg) - Simple, secure & standards compliant web server for the most demanding of applications 
 
 ## HTTP in Server Side
 
@@ -203,7 +206,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Compression
 
-* [facebook/zstd](https://github.com/facebook/zstd) (cpp) - Zstandard - Fast real-time compression algorithm
+* [facebook/zstd](https://github.com/facebook/zstd) (cpp)(vcpkg) - Zstandard - Fast real-time compression algorithm
 
 ## Crypto
 
@@ -243,12 +246,12 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Clouds
 
-* [aws/aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) (cpp) - AWS SDK for C++
+* [aws/aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) (cpp)(vcpkg) - AWS SDK for C++
 
 ## Image Processing , Computer Vision
 
 * https://github.com/ImageMagick/ImageMagick
-* https://github.com/opencv/opencv
+* https://github.com/opencv/opencv (cpp)(vcpkg) 
 
 ## ML , Deep Learning
 
@@ -264,7 +267,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 ## Database Clients/Drivers
 
 * [dmitigr/pgfe](https://github.com/dmitigr/pgfe) (cpp) - The PostgreSQL client API in modern C++
-* https://github.com/redis/hiredis
+* https://github.com/redis/hiredis (cpp)(vcpkg)
 
 ## Databases
 
@@ -398,13 +401,11 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 * http://www.gaclib.net/index.html - a GPU accelerated C++ User Interface library. 
 * https://github.com/vczh-libraries/GacUI
 
-## Reactive
 
-* [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) (cpp)(vcpkg) - Reactive Extensions for C++
 
 ## Finite State Machine
 
-* [andrew-gresylk/HFSM2](https://github.com/andrew-gresyk/HFSM2) (cpp)(vcpkg) - High-Performance Hierarchical Finite State Machine Framework
+
 * https://github.com/digint/tinyfsm
 * https://github.com/eglimi/cppfsm
 
@@ -439,7 +440,7 @@ A curated list of awesome (cpp,go,rust) libraries,frameworks,softwares for game 
 
 ## Networking Libraries
 
-* [skypjack/uvw](https://github.com/skypjack/uvw) (cpp)(vcpkg) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++
+
 * [boostorg/beast](https://github.com/boostorg/beast) (cpp)(vcpkg) - HTTP and WebSocket built on Boost.Asio in C++11
 * [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) (cpp)(vcpkg)- Asio C++ Library
 
