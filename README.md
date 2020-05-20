@@ -135,6 +135,8 @@ Version 0.1
 
 ## Physics
 
+* https://github.com/bulletphysics/bullet3
+
 ## Sound
 
 * wwise
