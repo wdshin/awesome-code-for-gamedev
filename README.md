@@ -333,7 +333,9 @@ Version 0.1
 ## Coding Facilities
 
 * [Neargye/magic-enum](https://github.com/Neargye/magic_enum) (cpp)(vcpkg) 
+* [Neargye/nameof](https://github.com/Neargye/nameof) (cpp)(vcpkg) 
 * [aantron/better-enums](https://github.com/aantron/better-enums) (cpp) - C++ compile-time enum to string, iteration, in a single header file
+
 
 ## Data Structures and Algorithms
 
