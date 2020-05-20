@@ -186,20 +186,20 @@ v
 ## MQ Client
 
 * https://www.rabbitmq.com/devtools.html
-* https://github.com/CopernicaMarketingSoftware/AMQP-CPP
+* [amqpcpp](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) (cpp)(vcpkg)
 
 ## Communication between servers , Interprocess Communications
 
-* [grpc/grpc](https://github.com/grpc/grpc) (cpp) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+* [grpc/grpc](https://github.com/grpc/grpc) (cpp)(vcpkg) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 
 ## Communication Clients
 
-* [microsoft/cpprestsdk](https://github.com/microsoft/cpprestsdk) (cpp) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+* [microsoft/cpprestsdk](https://github.com/microsoft/cpprestsdk) (cpp)(vcpkg) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
 
 ## Memory Allocators
 
-* [microsoft/mimalloc](https://github.com/microsoft/mimalloc) (cpp) - A compact general purpose allocator with excellent performance. [MIT]
+* [microsoft/mimalloc](https://github.com/microsoft/mimalloc) (cpp)(vcpkg) - A compact general purpose allocator with excellent performance. [MIT]
 
 ## Compression
 
@@ -207,10 +207,10 @@ v
 
 ## Crypto
 
-* [jedisct1/libsodium](https://github.com/jedisct1/libsodium) (cpp) - A modern, portable, easy to use crypto library
-* [randombit/botan](https://github.com/randombit/botan) (cpp) - Cryptography Toolkit
+* [jedisct1/libsodium](https://github.com/jedisct1/libsodium) (cpp)(vcpkg) - A modern, portable, easy to use crypto library
+* [randombit/botan](https://github.com/randombit/botan) (cpp)(vcpkg) - Cryptography Toolkit
 * [awslabs/s2n](https://github.com/awslabs/s2n) (cpp) - an implementation of the TLS/SSL protocols
-* [weidai11/cryptopp](https://github.com/weidai11/cryptopp) (cpp) - free C++ class library of cryptographic schemes
+* [weidai11/cryptopp](https://github.com/weidai11/cryptopp) (cpp)(vcpkg) - free C++ class library of cryptographic schemes
 
 ## Code Stability
 
@@ -343,8 +343,8 @@ v
 * [xorz57/forest](https://github.com/xorz57/forest) - Template Library of Tree Data Structures in C++17
 * [mattreecebentley/plf_list](https://github.com/mattreecebentley/plf_list) (cpp) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. [zLib] 
 * [mattreecebentley/plf_stack](https://github.com/mattreecebentley/plf_stack) (cpp)- A C++ data container replicating std::stack functionality but with better performance than standard library containers in a stack context. 
-* https://github.com/Tessil/robin-map - C++ implementation of a fast hash map and hash set using robin hood hashing 
-* https://github.com/martinus/robin-hood-hashing - Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20 
+* [Tessil/robin-map](https://github.com/Tessil/robin-map) (cpp)(vcpkg)- C++ implementation of a fast hash map and hash set using robin hood hashing 
+* [Tessil/robin-hood-hashing](https://github.com/martinus/robin-hood-hashing (cpp)(vcpkg)- Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20 
 * https://github.com/faragon/libsrt
 * https://github.com/electronicarts/EASTL
 
