@@ -348,6 +348,13 @@ Version 0.1
 * [Neargye/nameof](https://github.com/Neargye/nameof) (cpp)(vcpkg) 
 * [aantron/better-enums](https://github.com/aantron/better-enums) (cpp) - C++ compile-time enum to string, iteration, in a single header file
 
+## Reflection
+
+* https://github.com/cplusplus/reflection-ts
+* https://github.com/skypjack/meta - Header-only runtime reflection system in C++ ( I finally decided to write a built-in, non-intrusive and macro-free runtime reflection system for my own.)
+* https://github.com/billyquith/ponder - C++ reflection library
+* https://github.com/rttrorg/rttr - C++ Reflection Library 
+* https://github.com/naver/reflect - C++ class reflection library without RTTI. 
 
 ## Data Structures and Algorithms
 
