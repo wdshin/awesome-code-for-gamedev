@@ -506,6 +506,7 @@ Version 0.1
 
 ## HTTP in Server Side
 
+* [actix/actix-web](https://github.com/actix/actix-web) (rust) - Actix web is a small, pragmatic, and extremely fast rust web framework.
 * [ipkn/crow](https://github.com/ipkn/crow) (cpp)(vcpkg)- Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 * [oktal/pistache](https://github.com/oktal/pistache) (cpp)(vcpkg)- Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
 * https://github.com/oatpp/oatpp
