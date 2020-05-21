@@ -306,11 +306,13 @@ Version 0.1
 
 ## Game Engines
 
-* https://github.com/godotengine/godot - Godot Engine – Multi-platform 2D and 3D game engine 
-* https://github.com/urho3d/Urho3D
-* https://github.com/Gamua/Starling-Framework
-* https://github.com/ivansafrin/Polycode
-* http://www.heroengine.com/
+* [godot](https://github.com/godotengine/godot) - (cpp) Godot Engine – Multi-platform 2D and 3D game engine 
+* [amethyst](https://github.com/amethyst/amethyst) - (rust) amethyst - Data-oriented and data-driven game engine written in Rust
+* [piston](https://github.com/PistonDevelopers/piston)- (rust) piston - A modular game engine written in Rust 
+* https://github.com/urho3d/Urho3D (cpp)
+* https://github.com/Gamua/Starling-Framework (cpp)
+* https://github.com/ivansafrin/Polycode (cpp)
+* http://www.heroengine.com/ (cpp)
 
 ## Package Manager
 
@@ -336,6 +338,10 @@ Version 0.1
 ## Animation
 
 * https://github.com/DragonBones/DragonBonesCPP
+
+## Graphics API
+
+* [gfx](https://github.com/gfx-rs/gfx) - (rust) A low-overhead Vulkan-like GPU API for Rust.
 
 ## DirectX, OpenGL, OpenGLES , Vulkan , Metal
 
