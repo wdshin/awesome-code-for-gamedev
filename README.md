@@ -489,10 +489,12 @@ Version 0.1
 
 * [boostorg/beast](https://github.com/boostorg/beast) (cpp)(vcpkg) - HTTP and WebSocket built on Boost.Asio in C++11
 * [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) (cpp)(vcpkg)- Asio C++ Library
+* [tokio-rs/mio](https://github.com/tokio-rs/mio) (rust) - Metal IO library for Rust
 
 ## Networking Libraries/Frameworks in Server Side
 
 * [chenshuo/muduo](https://github.com/chenshuo/muduo) - Event-driven network library for multi-threaded Linux server in C++11
+* [tokio-rs/tokio](https://github.com/tokio-rs/tokio) (rust) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... https://tokio.rs
 
 ## Network Libraries in Client/Server Side
 
