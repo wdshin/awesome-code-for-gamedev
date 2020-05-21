@@ -432,7 +432,9 @@ Version 0.1
 * http://www.gaclib.net/index.html - a GPU accelerated C++ User Interface library. 
 * https://github.com/vczh-libraries/GacUI
 
+## Native UI
 
+* [fyne-io/fyne](https://github.com/fyne-io/fyne) (golang) - Cross platform GUI in Go based on Material Design https://fyne.io/
 
 ## Finite State Machine
 
