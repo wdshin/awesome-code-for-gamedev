@@ -391,6 +391,7 @@ Version 0.1
 * https://github.com/miguelmartin75/anax
 * https://github.com/alecthomas/entityx
 * [actix/actix](https://github.com/actix/actix) (rust) - Actor framework for Rust
+* [amethyst/specs](https://github.com/amethyst/specs) (rust) - Specs - Parallel ECS https://specs.amethyst.rs/
 
 ## Saving/Loading Objects, Compositing Packets
 
