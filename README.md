@@ -473,9 +473,10 @@ Version 0.1
 
 * [chenshuo/muduo](https://github.com/chenshuo/muduo) - Event-driven network library for multi-threaded Linux server in C++11
 
-## TCP in Client Side
+## Network Libraries in Client/Server Side
 
 * https://github.com/chronoxor/CppServer
+* https://github.com/Qihoo360/evpp
 
 ## HTTP in Server Side
 
