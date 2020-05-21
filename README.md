@@ -97,6 +97,7 @@ Version 0.1
 
 ## Saving/Loading Objects, Compositing Packets
 
+
 * [fraillt/bitsery](https://github.com/fraillt/bitsery) (cpp)(vcpkg) - Header only C++ binary serialization library. It is designed around the networking requirements for real-time data delivery, especially for games.
 * [simdjson/simdjson](https://github.com/simdjson/simdjson) (cpp)(vcpkg) - Parsing gigabytes of JSON per second 
 * [Tencent/rapidjson](https://github.com/Tencent/rapidjson) (cpp)(vcpkg) - A fast JSON parser/generator for C++ with both SAX/DOM style API
@@ -385,6 +386,7 @@ Version 0.1
 
 ## Saving/Loading Objects, Compositing Packets
 
+* * https://github.com/felixguendling/cista
 * [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) (cpp) - Header-only TOML config file parser and serializer for modern C++. 
 * [capnproto/capnproto](https://github.com/capnproto/capnproto) (cpp)(vcpkg) - Cap'n Proto serialization/RPC system - core tools and C++ library
 * [USCiLab/cereal](https://github.com/USCiLab/cereal) (cpp)(vcpkg) - A C++11 library for serialization
