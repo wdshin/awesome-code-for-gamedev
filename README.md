@@ -355,6 +355,7 @@ Version 0.1
 * https://github.com/billyquith/ponder - C++ reflection library
 * https://github.com/rttrorg/rttr - C++ Reflection Library 
 * https://github.com/naver/reflect - C++ class reflection library without RTTI. 
+* https://github.com/veselink1/refl-cpp - A modern *compile-time* reflection library for C++
 
 ## Data Structures and Algorithms
 
