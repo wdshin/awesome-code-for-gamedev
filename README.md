@@ -24,6 +24,7 @@ Version 0.1
 ## Package Manager
 
 * [vcpkg](https://github.com/Microsoft/vcpkg) (cpp)
+* [cargo](https://github.com/rust-lang/cargo) (rust)
 
 ## Build
 
@@ -389,6 +390,7 @@ Version 0.1
 
 * https://github.com/miguelmartin75/anax
 * https://github.com/alecthomas/entityx
+* [actix/actix](https://github.com/actix/actix) (rust) - Actor framework for Rust
 
 ## Saving/Loading Objects, Compositing Packets
 
