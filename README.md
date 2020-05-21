@@ -462,6 +462,17 @@ Version 0.1
 
 * [mandreyel/mio](https://github.com/mandreyel/mio) (cpp)(vcpkg) - Cross-platform C++11 header-only library for memory mapped file IO
 
+## Virtual File System
+
+* http://www.icculus.org/physfs/
+* https://github.com/mattiasgustavsson/libs
+* https://github.com/yevgeniy-logachev/vfspp
+* https://github.com/fgenesis/ttvfs
+* https://github.com/msamman2k/appvfs
+
+## Distributed File System 
+
+* https://github.com/baidu/bfs
 
 ## Networking Libraries
 
