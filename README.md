@@ -303,6 +303,8 @@ Version 0.1
 
 ## Open Sourced Games
 
+* https://github.com/SFTtech/openage
+
 
 # Expetimental, For Studying 
 
@@ -327,6 +329,10 @@ Version 0.1
 ## Graphics
 
 * http://www.realtimerendering.com/
+
+## Learning Rendering
+
+* https://github.com/ssloy/tinyrenderer
 
 
 ## Renderer + UI
