@@ -429,6 +429,10 @@ Version 0.1
 
 * https://gamedev.stackexchange.com/questions/112143/when-to-use-a-blend-tree-vs-state-machine-for-animation
 
+## Tween
+
+* https://github.com/mobius3/tweeny
+
 ## Physics
 
 * https://www.reactphysics3d.com/
