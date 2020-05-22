@@ -333,6 +333,10 @@ Version 0.1
 
 * https://github.com/bkaradzic/bgfx/blob/master/examples/common/imgui/imgui.cpp
 
+## Graphics Asset Import
+
+* https://github.com/matthewcpp/fbx-anim
+
 ## Graphics Middleware
 
 * https://github.com/mosra/magnum
