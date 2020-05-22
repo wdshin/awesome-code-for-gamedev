@@ -89,10 +89,11 @@ Version 0.1
 * [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework) (cpp) - An Open Source Implementation of the Actor Model in C++
 * [Stiffstream/sobjectizer](https://github.com/Stiffstream/sobjectizer) (cpp)(vcpkg) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. With performance, quality, and stability proved by years in the production.
 
-## Finiate State Machine
+## Finiate State Machine, State Chart
 
 * [andrew-gresylk/HFSM2](https://github.com/andrew-gresyk/HFSM2) (cpp)(vcpkg) - High-Performance Hierarchical Finite State Machine Framework
 * [zmij/afsm](https://github.com/zmij/afsm) (cpp)- C++14 Finite State Machine library 
+* [google/statechart](https://github.com/google/statechart) (cpp) - C++ StateChart Library
 
 ## Game Mechanics
 
