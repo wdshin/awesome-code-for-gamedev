@@ -579,6 +579,10 @@ Version 0.1
 
 * [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
 
+## Debugging
+
+* https://github.com/sharkdp/dbg-macro
+
 ## Test Automation
 
 ## VM
