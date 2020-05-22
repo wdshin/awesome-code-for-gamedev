@@ -304,7 +304,7 @@ Version 0.1
 ## Open Sourced Games
 
 * https://github.com/SFTtech/openage
-
+* https://github.com/OpenRCT2/OpenRCT2
 
 # Expetimental, For Studying 
 
@@ -333,7 +333,7 @@ Version 0.1
 ## Learning Rendering
 
 * https://github.com/ssloy/tinyrenderer
-
+* https://github.com/appleseedhq/appleseed
 
 ## Renderer + UI
 
