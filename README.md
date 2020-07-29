@@ -78,6 +78,8 @@ Version 0.1
 ## Data Structures and Algorithms
 
 * [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) (cpp)(vcpkg) - Abseil Common Libraries (C++)
+* CDS
+* CopperSpice
 
 ## Foundation Libraries
 
