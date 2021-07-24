@@ -453,6 +453,9 @@ Version 0.1
 
 * http://www.gaclib.net/index.html - a GPU accelerated C++ User Interface library. 
 * https://github.com/vczh-libraries/GacUI
+* [iced](https://github.com/hecrj/iced) (rust) - A cross-platform GUI library focused on simplicity and type-safety. Inspired by Elm.
+* [tauri](https://github.com/tauri-apps/tauri) (rust) - a framework for building tiny, blazing fast binaries for all major desktop platforms
+* [sauron-native](https://github.com/ivanceras/sauron-native) (rust) - conquers all platforms ranging from desktop to mobile devices. An attempt to create a truly native, truly cross platform UI for your rust applications.
 
 ## Native UI
 
@@ -533,6 +536,9 @@ Version 0.1
 * [oktal/pistache](https://github.com/oktal/pistache) (cpp)(vcpkg)- Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
 * https://github.com/oatpp/oatpp
 
+* [sauron)(https://github.com/ivanceras/sauron) (rust) - an web framework for creating fast and interactive client side web application, as well as server-side rendering for back-end web applications.
+
+
 ## Testing
 
 * [drill](https://github.com/fcsonline/drill) (rust) - a HTTP load testing application 
@@ -586,6 +592,8 @@ Version 0.1
 
 * https://github.com/zserge/webview (cpp)
 * https://github.com/zserge/lorca (go)
+* [wry](https://github.com/tauri-apps/wry) (rust) - Cross-platform WebView rendering librarythat supports all major desktop platforms like Windows, macOS, and Linux.
+
 
 ## Distributed Systems
 
