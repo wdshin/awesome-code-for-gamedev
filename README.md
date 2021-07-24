@@ -6,20 +6,23 @@ Version 0.1
 
 # Production Ready Items
 
-## Game Engines
+## Game Engines and Frameworks
 
-* [EpicGames/UnrealEngine](https://github.com/EpicGames/UnrealEngine) (cpp)- Unreal Engine source code 
+* [UnrealEngine](https://github.com/EpicGames/UnrealEngine) (cpp)- Unreal Engine source code 
 
-* [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) (cpp) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+* [unity3d](https://unity.com) (c#) - commercial cross-platform game engine
+  
+* [cocos2d-x](https://github.com/cocos2d/cocos2d-x) (cpp) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+  
 
-* https://unity.com/ (c#) - commercial cross-platform game engine
+## IDEs and Code Editors
 
-## Frameworks
+* Visual Studio 2017,2019 (c++,c#)
+* Visual Studio Code (c++,rust,golang)
+* CLion (c++,rust)
+* Goland  (golang)
+* PyCharm (python)
 
-## IDE
-
-* Visual Studio
-* CLion
 
 ## Package Manager
 
@@ -30,28 +33,27 @@ Version 0.1
 
 * CMake
 
-## Rendering
+## Computer Graphics 
 
-* https://github.com/bkaradzic/bgfx
+### Rendering
 
-## Game Development Tools
+* [bgfx](https://github.com/bkaradzic/bgfx) (cpp) - Cross-platform rendering library
 
-## Graphics Tools
+### 3D Authoring Tools
 
 * https://github.com/blender/blender
 * Maya
 * 3DSMax
 
-## 2D Graphics Tools
+### 2D Authoring Tools
 
-* https://www.synfig.org/
+* Adobe Photoshop 
 
-## Bitmap Compression
+### Bitmap Compression
 
-* https://pngquant.org/
-* https://github.com/Kilian/Trimage
+* ?
 
-## 3D Content Format
+### 3D Content Format
 
 * https://github.com/KhronosGroup/OpenCOLLADA
 * https://www.autodesk.com/developer-network/platform-technologies/fbx
@@ -61,96 +63,95 @@ Version 0.1
 * https://github.com/acgessler/assimp-cinema4d
 * https://github.com/PluginCafe
 
-## Middlewares
 
-* https://www.mcvuk.com/development-news/12-animation-tools-to-bring-your-game-characters-to-life/
-* https://www.popcornfx.com/
+### Animations
 
-## Landscape, World
+* https://knowledge.autodesk.com/support/maya-lt/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/MayaLT/files/GUID-EDBDA3DB-4715-40EF-9ADF-412F78BFF98E-htm.html
+
+### Landscape, World
 
 * [SpeedTree](https://store.speedtree.com/) 
 * TrueSky
 
-## Coding Facilities
+### Navigation , Pathfinding
 
-* https://liveplusplus.tech/
+* [havok](https://www.havok.com/products/)
 
-## Data Structures and Algorithms
+### Particles
 
-* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) (cpp)(vcpkg) - Abseil Common Libraries (C++)
+## C++ Coding Facilities
+
+### ?
+
+* [live++](https://liveplusplus.tech/) 
+
+
+## C++ Foundation Libraries
+
+### C++ Data Structures and Algorithms
+
+* c++ stl
+* [abseil](https://github.com/abseil/abseil-cpp) (cpp)(vcpkg) - Abseil Common Libraries (C++)
 * CDS
 * CopperSpice
-
-## Foundation Libraries
-
 * [facebook/folly](https://github.com/facebook/folly) (cpp)(vcpkg) - An open-source C++ library developed and used at Facebook.
 
 ## Objects
 
-* [skypjack/entt](https://github.com/skypjack/entt) (cpp)(vcpkg) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
-* [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework) (cpp) - An Open Source Implementation of the Actor Model in C++
-* [Stiffstream/sobjectizer](https://github.com/Stiffstream/sobjectizer) (cpp)(vcpkg) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. With performance, quality, and stability proved by years in the production.
+* ?
 
-## Finiate State Machine, State Chart
+### Finiate State Machine, State Chart
 
-* [andrew-gresylk/HFSM2](https://github.com/andrew-gresyk/HFSM2) (cpp)(vcpkg) - High-Performance Hierarchical Finite State Machine Framework
-* [zmij/afsm](https://github.com/zmij/afsm) (cpp)- C++14 Finite State Machine library 
-* [google/statechart](https://github.com/google/statechart) (cpp) - C++ StateChart Library
+* ?
 
-## Game Mechanics
+### Game Mechanics
 
-## Saving/Loading Objects, Compositing Packets
+* ?
+
+### Saving/Loading Objects, Compositing Packets
 
 
-* [fraillt/bitsery](https://github.com/fraillt/bitsery) (cpp)(vcpkg) - Header only C++ binary serialization library. It is designed around the networking requirements for real-time data delivery, especially for games.
+* [google/flatbuffers](https://github.com/google/flatbuffers) (cpp)(vcpkg) - FlatBuffers: Memory Efficient Serialization Library
 * [simdjson/simdjson](https://github.com/simdjson/simdjson) (cpp)(vcpkg) - Parsing gigabytes of JSON per second 
 * [Tencent/rapidjson](https://github.com/Tencent/rapidjson) (cpp)(vcpkg) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 * [danielparker/jsoncons](https://github.com/danielaparker/jsoncons) (cpp)(vcpkg) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, CSV, MessagePack, CBOR, BSON, UBJSON
-* [google/flatbuffers](https://github.com/google/flatbuffers) (cpp)(vcpkg) - FlatBuffers: Memory Efficient Serialization Library
+
+
+* [fraillt/bitsery](https://github.com/fraillt/bitsery) (cpp)(vcpkg) - Header only C++ binary serialization library. It is designed around the networking requirements for real-time data delivery, especially for games.
 * [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) (cpp)(vcpkg) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
 
-## Resources, FileSystem
+### Resources, FileSystem
 
-## Tokenizer
+* ?
+
+### Tokenizer
 
 * https://github.com/microsoft/BlingFire
 
-## Triangles , Geometry , Maths , Physics
+## Physics
 
 * [NVIDIAGameWorks/Physx-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4)(cpp)(vcpkg) PhysX - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. [BSD-3-Clause]
 
-## Libraries 
+## C++ Libraries 
 
 * [google/re2](https://github.com/google/re2) (cpp)(vcpkg) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 * [fmtlib/fmt](https://github.com/fmtlib/fmt) (cpp)(vcpkg)
 
+## Scripting
 
-## Logic Scripts
+### Logic Scripts
 
 * [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) (cpp)(vcpkg) - Embedded Scripting Language Designed for C++
 
-## Scripting
+### UI Test Automation Scripting
 
-* https://www.python.org/
+* [python](https://www.python.org/) - 
 
-## UI
-
-* [ocornut/imgui](https://github.com/ocornut/imgui) (cpp)(vcpkg) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-
-## Animations
-
-* https://knowledge.autodesk.com/support/maya-lt/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/MayaLT/files/GUID-EDBDA3DB-4715-40EF-9ADF-412F78BFF98E-htm.html
-
-## Navigation , Pathfinding
-
-* https://www.havok.com/products/
-
-## Particles
 
 ## Physics
 
-* https://github.com/bulletphysics/bullet3
-* https://www.havok.com/products/
+* [bullet](https://github.com/bulletphysics/bullet3)
+* [havok](https://www.havok.com/products/)
 
 ## Sound
 
@@ -159,10 +160,7 @@ Version 0.1
 
 ## Human Interface Devices
 
-## Reactive
 
-* [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) (cpp)(vcpkg) - Reactive Extensions for C++
-* [schlangster/cpp.react](https://github.com/schlangster/cpp.react) (cpp) - C++React: A reactive programming library for C++11. 
 
 ## Concurrency & Parallelism
 
@@ -175,6 +173,7 @@ Version 0.1
 
 ## File IO
 
+* ?
 
 ## Networking Libraries
 
@@ -340,6 +339,11 @@ Version 0.1
 * [actix/actix](https://github.com/actix/actix) (rust) - Actor framework for Rust
 * [amethyst/specs](https://github.com/amethyst/specs) (rust) - Specs - Parallel ECS https://specs.amethyst.rs/
 
+* [skypjack/entt](https://github.com/skypjack/entt) (cpp)(vcpkg) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+* [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework) (cpp) - An Open Source Implementation of the Actor Model in C++
+* [Stiffstream/sobjectizer](https://github.com/Stiffstream/sobjectizer) (cpp)(vcpkg) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. With performance, quality, and stability proved by years in the production.
+
+
 ### Networked Objects - Synchronization
 
 * [backroll](https://github.com/HouraiTeahouse/backroll-rs) (rust) -  pure Rust implementation of GGPO rollback networking library.
@@ -379,6 +383,9 @@ Version 0.1
 
 ### Finite State Machine
 
+* [andrew-gresylk/HFSM2](https://github.com/andrew-gresyk/HFSM2) (cpp)(vcpkg) - High-Performance Hierarchical Finite State Machine Framework
+* [zmij/afsm](https://github.com/zmij/afsm) (cpp)- C++14 Finite State Machine library 
+* [google/statechart](https://github.com/google/statechart) (cpp) - C++ StateChart Library
 
 * https://github.com/digint/tinyfsm
 * https://github.com/eglimi/cppfsm
@@ -415,28 +422,51 @@ Version 0.1
 
 * https://github.com/bkaradzic/bgfx/blob/master/examples/common/imgui/imgui.cpp
 
+### Triangles , Geometry , Maths , Physics
+
+* [libigl/libigl](https://github.com/libigl/libigl) (cpp)(vcpkg) - Simple C++ geometry processing library.
+* [google/mathfu](https://github.com/google/mathfu) (cpp) - C++ math library developed primarily for games focused on simplicity and efficiency.
+
 ### Graphics Asset Import
 
-* https://github.com/matthewcpp/fbx-anim
+* [fbx animation](https://github.com/matthewcpp/fbx-anim) - ?
 
-### Graphics Middleware
+### Computer Graphics Middleware
 
 * https://github.com/mosra/magnum
+* https://www.mcvuk.com/development-news/12-animation-tools-to-bring-your-game-characters-to-life/
+* https://www.popcornfx.com/
+
 
 ### Animation
 
 * https://github.com/DragonBones/DragonBonesCPP
 
+### 2D Authoring Tools
+
+* ?
+
+### Bitmap Compression
+
+* https://pngquant.org/
+* https://github.com/Kilian/Trimage
+
+
 ### Graphics API
 
 * [gfx](https://github.com/gfx-rs/gfx) - (rust) A low-overhead Vulkan-like GPU API for Rust.
 
-### DirectX, OpenGL, OpenGLES , Vulkan , Metal
+### Rendering SDK - DirectX, OpenGL, OpenGLES , Vulkan , Metal
+
+* DirectX
+* Vulkan
 
 ### Triangles , Geometry , Maths , Physics
 
 * [libigl/libigl](https://github.com/libigl/libigl) (cpp)(vcpkg) - Simple C++ geometry processing library.
 * [google/mathfu](https://github.com/google/mathfu) (cpp) - C++ math library developed primarily for games focused on simplicity and efficiency.
+
+
 
 ### Animation
 
@@ -449,6 +479,7 @@ Version 0.1
 ### Tween
 
 * https://github.com/mobius3/tweeny
+
 
 
 ## UI
@@ -508,6 +539,12 @@ Version 0.1
 
 * https://github.com/sheredom/utf8.h
 
+### Reactive
+
+* [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) (cpp)(vcpkg) - Reactive Extensions for C++
+* [schlangster/cpp.react](https://github.com/schlangster/cpp.react) (cpp) - C++React: A reactive programming library for C++11. 
+
+
 ## Data 
 
 ### data parallel
@@ -521,6 +558,9 @@ Version 0.1
 * https://github.com/triSYCL/triSYCL
 * https://github.com/KhronosGroup/SyclParallelSTL
 * https://github.com/illuhad/hipSYCL
+
+
+
 
 
 ## IO
