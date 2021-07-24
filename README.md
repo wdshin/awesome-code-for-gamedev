@@ -512,11 +512,17 @@ Version 0.1
 ### File I/O
 * [mandreyel/mio](https://github.com/mandreyel/mio) (cpp)(vcpkg) - Cross-platform C++11 header-only library for memory mapped file IO
 
+* [bin_io](https://github.com/Tazdevil971/bin_io) (rust) - a crate inspired greatly by nom and other parser combinator libraries.
+
+
 ### Network I/O
 
 * [tokio](https://github.com/tokio-rs/tokio) (rust) - n event-driven, non-blocking I/O platform for writing asynchronous applications with the Rust programming language.
 * [mio](https://github.com/tokio-rs/mio) (rust) - a fast, low-level I/O library for Rust focusing on non-blocking APIs and event notification for building high performance I/O apps with as little overhead as possible over the OS abstractions.
 
+### benchmark
+
+* [rust-io-file-benchmark](https://github.com/axsaucedo/rust-io-file-benchmark) (rust) - a short report on the performance metrics obtained processing large files with a small rust/python script.
 
 
 ## Virtual File System
