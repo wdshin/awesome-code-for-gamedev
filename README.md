@@ -310,15 +310,19 @@ Version 0.1
 
 # Expetimental, For Studying 
 
-## Game Engines
+* https://gamedev.rs/
+
+## Game Engines and Frameworks
 
 * [godot](https://github.com/godotengine/godot) - (cpp) Godot Engine – Multi-platform 2D and 3D game engine 
 * [amethyst](https://github.com/amethyst/amethyst) - (rust) amethyst - Data-oriented and data-driven game engine written in Rust
+* [bevy](https://github.com/bevyengine/bevy) (rust) - a refreshingly simple data-driven game engine built in Rust. It is free and open-source forever!
 * [piston](https://github.com/PistonDevelopers/piston)- (rust) piston - A modular game engine written in Rust 
 * https://github.com/urho3d/Urho3D (cpp)
 * https://github.com/Gamua/Starling-Framework (cpp)
 * https://github.com/ivansafrin/Polycode (cpp)
 * http://www.heroengine.com/ (cpp)
+* https://juce.com/
 
 ## Package Manager
 
@@ -328,82 +332,6 @@ Version 0.1
 * [hunter](https://hunter.readthedocs.io/en/latest/) (cpp)
 * https://bitbucket.org/benman/teaport/src/master/
 
-## Graphics
-
-* http://www.realtimerendering.com/
-
-## Learning Rendering
-
-* https://github.com/ssloy/tinyrenderer
-* https://github.com/appleseedhq/appleseed
-
-## Renderer + UI
-
-* https://github.com/bkaradzic/bgfx/blob/master/examples/common/imgui/imgui.cpp
-
-## Graphics Asset Import
-
-* https://github.com/matthewcpp/fbx-anim
-
-## Graphics Middleware
-
-* https://github.com/mosra/magnum
-
-## Animation
-
-* https://github.com/DragonBones/DragonBonesCPP
-
-## Graphics API
-
-* [gfx](https://github.com/gfx-rs/gfx) - (rust) A low-overhead Vulkan-like GPU API for Rust.
-
-## DirectX, OpenGL, OpenGLES , Vulkan , Metal
-
-## Frameworks
-
-* https://juce.com/
-
-## Coding Facilities
-
-* [Neargye/magic-enum](https://github.com/Neargye/magic_enum) (cpp)(vcpkg) 
-* [Neargye/nameof](https://github.com/Neargye/nameof) (cpp)(vcpkg) 
-* [aantron/better-enums](https://github.com/aantron/better-enums) (cpp) - C++ compile-time enum to string, iteration, in a single header file
-
-* https://github.com/CoatiSoftware/Sourcetrail
-
-## Reflection
-
-* https://github.com/cplusplus/reflection-ts
-* https://github.com/skypjack/meta - Header-only runtime reflection system in C++ ( I finally decided to write a built-in, non-intrusive and macro-free runtime reflection system for my own.)
-* https://github.com/billyquith/ponder - C++ reflection library
-* https://github.com/rttrorg/rttr - C++ Reflection Library 
-* https://github.com/naver/reflect - C++ class reflection library without RTTI. 
-* https://github.com/veselink1/refl-cpp - A modern *compile-time* reflection library for C++
-
-## Data Structures and Algorithms
-
-* [orlp/pdqsort](https://github.com/orlp/pdqsort)(vcpkg) - Pattern-defeating quicksort. 
-* [timesort/cpp-TimeSort](https://github.com/timsort/cpp-TimSort) - A C++ implementation of timsort 
-
-* [greg7mdp/sparsepp](https://github.com/greg7mdp/sparsepp) (cpp) - A fast, memory efficient hash map for C++
-* [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
-* [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
-* [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
-* [xorz57/forest](https://github.com/xorz57/forest) - Template Library of Tree Data Structures in C++17
-* [mattreecebentley/plf_list](https://github.com/mattreecebentley/plf_list) (cpp) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. [zLib] 
-* [mattreecebentley/plf_stack](https://github.com/mattreecebentley/plf_stack) (cpp)- A C++ data container replicating std::stack functionality but with better performance than standard library containers in a stack context. 
-* [Tessil/robin-map](https://github.com/Tessil/robin-map) (cpp)(vcpkg)- C++ implementation of a fast hash map and hash set using robin hood hashing 
-* [Tessil/robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) (cpp)(vcpkg)- Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20 
-* https://github.com/faragon/libsrt
-* https://github.com/electronicarts/EASTL
-
-### data parallel
-
-* [rayon](https://github.com/rayon-rs/rayon) (rust)- a data-parallelism library for Rust.
-
-## i18n
-
-* https://github.com/sheredom/utf8.h
 
 ## Objects - Entity, Actor
 
@@ -412,8 +340,12 @@ Version 0.1
 * [actix/actix](https://github.com/actix/actix) (rust) - Actor framework for Rust
 * [amethyst/specs](https://github.com/amethyst/specs) (rust) - Specs - Parallel ECS https://specs.amethyst.rs/
 
+### Networked Objects - Synchronization
 
-## Saving/Loading Objects, Compositing Packets
+* [backroll](https://github.com/HouraiTeahouse/backroll-rs) (rust) -  pure Rust implementation of GGPO rollback networking library.
+
+
+### Saving/Loading Objects, Compositing Packets
 
 * * https://github.com/felixguendling/cista
 * [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) (cpp) - Header-only TOML config file parser and serializer for modern C++. 
@@ -436,28 +368,88 @@ Version 0.1
 * [nom](https://github.com/Geal/nom) (rust) - a parser combinators library written in Rust
 * 
 
-## Triangles , Geometry , Maths , Physics
 
-* [libigl/libigl](https://github.com/libigl/libigl) (cpp)(vcpkg) - Simple C++ geometry processing library.
-* [google/mathfu](https://github.com/google/mathfu) (cpp) - C++ math library developed primarily for games focused on simplicity and efficiency.
-
-## Animation
-
-* https://github.com/guillaumeblanc/ozz-animation
-
-## Animation and State
-
-* https://gamedev.stackexchange.com/questions/112143/when-to-use-a-blend-tree-vs-state-machine-for-animation
-
-## Tween
-
-* https://github.com/mobius3/tweeny
-
-## Physics
+### Physics
 
 * https://www.reactphysics3d.com/
 * http://projectchrono.org/
 * https://pybullet.org/wordpress/
+
+
+
+### Finite State Machine
+
+
+* https://github.com/digint/tinyfsm
+* https://github.com/eglimi/cppfsm
+
+* https://github.com/endurodave/StateMachine
+
+
+### Behavior Tree
+
+* https://www.behaviortree.dev/
+* https://github.com/BehaviorTree/BehaviorTree.CPP
+* https://github.com/arvidsson/BrainTree
+
+### AI , Machine Learning
+
+* http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+### Concurrency & Parallelism
+
+* https://github.com/RaftLib/RaftLib
+* [thrust](http://thrust.github.io/) (cpp) - a parallel algorithms library which resembles the C++ Standard Template Library (STL)
+
+
+## Computer Graphics
+
+
+### Learning
+
+* http://www.realtimerendering.com/
+* https://github.com/ssloy/tinyrenderer
+* https://github.com/appleseedhq/appleseed
+
+### Renderer + UI
+
+* https://github.com/bkaradzic/bgfx/blob/master/examples/common/imgui/imgui.cpp
+
+### Graphics Asset Import
+
+* https://github.com/matthewcpp/fbx-anim
+
+### Graphics Middleware
+
+* https://github.com/mosra/magnum
+
+### Animation
+
+* https://github.com/DragonBones/DragonBonesCPP
+
+### Graphics API
+
+* [gfx](https://github.com/gfx-rs/gfx) - (rust) A low-overhead Vulkan-like GPU API for Rust.
+
+### DirectX, OpenGL, OpenGLES , Vulkan , Metal
+
+### Triangles , Geometry , Maths , Physics
+
+* [libigl/libigl](https://github.com/libigl/libigl) (cpp)(vcpkg) - Simple C++ geometry processing library.
+* [google/mathfu](https://github.com/google/mathfu) (cpp) - C++ math library developed primarily for games focused on simplicity and efficiency.
+
+### Animation
+
+* https://github.com/guillaumeblanc/ozz-animation
+
+### Animation and State
+
+* https://gamedev.stackexchange.com/questions/112143/when-to-use-a-blend-tree-vs-state-machine-for-animation
+
+### Tween
+
+* https://github.com/mobius3/tweeny
+
 
 ## UI
 
@@ -477,28 +469,52 @@ Version 0.1
 * [yew](https://github.com/yewstack/yew) (rust) - a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly.
 
 
-## Finite State Machine
+## Coding 
+
+### c++ 
+
+* [Neargye/magic-enum](https://github.com/Neargye/magic_enum) (cpp)(vcpkg) 
+* [Neargye/nameof](https://github.com/Neargye/nameof) (cpp)(vcpkg) 
+* [aantron/better-enums](https://github.com/aantron/better-enums) (cpp) - C++ compile-time enum to string, iteration, in a single header file
+* https://github.com/CoatiSoftware/Sourcetrail
+
+### C++ Reflection
+
+* https://github.com/cplusplus/reflection-ts
+* https://github.com/skypjack/meta - Header-only runtime reflection system in C++ ( I finally decided to write a built-in, non-intrusive and macro-free runtime reflection system for my own.)
+* https://github.com/billyquith/ponder - C++ reflection library
+* https://github.com/rttrorg/rttr - C++ Reflection Library 
+* https://github.com/naver/reflect - C++ class reflection library without RTTI. 
+* https://github.com/veselink1/refl-cpp - A modern *compile-time* reflection library for C++
+
+### C++ Data Structures and Algorithms
+
+* [orlp/pdqsort](https://github.com/orlp/pdqsort)(vcpkg) - Pattern-defeating quicksort. 
+* [timesort/cpp-TimeSort](https://github.com/timsort/cpp-TimSort) - A C++ implementation of timsort 
+
+* [greg7mdp/sparsepp](https://github.com/greg7mdp/sparsepp) (cpp) - A fast, memory efficient hash map for C++
+* [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
+* [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
+* [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
+* [xorz57/forest](https://github.com/xorz57/forest) - Template Library of Tree Data Structures in C++17
+* [mattreecebentley/plf_list](https://github.com/mattreecebentley/plf_list) (cpp) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. [zLib] 
+* [mattreecebentley/plf_stack](https://github.com/mattreecebentley/plf_stack) (cpp)- A C++ data container replicating std::stack functionality but with better performance than standard library containers in a stack context. 
+* [Tessil/robin-map](https://github.com/Tessil/robin-map) (cpp)(vcpkg)- C++ implementation of a fast hash map and hash set using robin hood hashing 
+* [Tessil/robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) (cpp)(vcpkg)- Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20 
+* https://github.com/faragon/libsrt
+* https://github.com/electronicarts/EASTL
+
+### i18n
+
+* https://github.com/sheredom/utf8.h
+
+## Data 
+
+### data parallel
+
+* [rayon](https://github.com/rayon-rs/rayon) (rust)- a data-parallelism library for Rust.
 
 
-* https://github.com/digint/tinyfsm
-* https://github.com/eglimi/cppfsm
-
-* https://github.com/endurodave/StateMachine
-* 
-## Behavior Tree
-
-* https://www.behaviortree.dev/
-* https://github.com/BehaviorTree/BehaviorTree.CPP
-* https://github.com/arvidsson/BrainTree
-
-## AI , Machine Learning
-
-* http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-
-## Concurrency & Parallelism
-
-* https://github.com/RaftLib/RaftLib
-* [thrust](http://thrust.github.io/) (cpp) - a parallel algorithms library which resembles the C++ Standard Template Library (STL)
 
 ## GPGPU
 
