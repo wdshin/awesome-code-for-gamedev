@@ -541,9 +541,33 @@ Version 0.1
 
 ## Testing
 
+### Load Testing
+
 * [drill](https://github.com/fcsonline/drill) (rust) - a HTTP load testing application 
 
+### Unit Tests
+
+* [laboratory](https://crates.io/crates/laboratory]) (rust) - A simple, expressive unit test framework
+* [rstest](https://crates.io/crates/rstest) (rust) - Fixture-based test framework
+
+### Property Testing
+
+* [proptest](https://crates.io/crates/proptest) (rust) - a property testing framework inspired by the Hypothesis framework for Python
+* [quickchceck](https://crates.io/crates/quickcheck) (rust) - a way to do property based testing using randomly generated input.
+
+### Fuzz Testing
+
+* [afl](https://github.com/rust-fuzz/afl.rs) (rust) - a popular, effective, and modern fuzz testing tool based on AFL.
+
  
+### Coverage Testing
+
+* [tarpaulin](https://crates.io/crates/cargo-tarpaulin) (rust) - a code coverage reporting tool for the Cargo build system, named for a waterproof cloth used to cover cargo on a ship
+
+### fake data
+
+* [fake](https://github.com/cksac/fake-rs) (rust) - A Rust library for generating fake data.
+
 ## Open Source Game Server
 
 * [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.34220, 3.3.5 = 3.3.5a.12340)
