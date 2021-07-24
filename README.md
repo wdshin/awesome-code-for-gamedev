@@ -514,6 +514,7 @@ Version 0.1
 
 ### Network I/O
 
+* [tokio](https://github.com/tokio-rs/tokio) (rust) - n event-driven, non-blocking I/O platform for writing asynchronous applications with the Rust programming language.
 * [mio](https://github.com/tokio-rs/mio) (rust) - a fast, low-level I/O library for Rust focusing on non-blocking APIs and event notification for building high performance I/O apps with as little overhead as possible over the OS abstractions.
 
 
@@ -572,6 +573,11 @@ Version 0.1
 
 * [laboratory](https://crates.io/crates/laboratory]) (rust) - A simple, expressive unit test framework
 * [rstest](https://crates.io/crates/rstest) (rust) - Fixture-based test framework
+
+### Concurrent
+
+* [loom](https://github.com/tokio-rs/loom) (rust) - a testing tool for concurrent Rust code.
+
 
 ### Property Testing
 
