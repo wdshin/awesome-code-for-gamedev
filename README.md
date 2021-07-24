@@ -533,6 +533,11 @@ Version 0.1
 * [oktal/pistache](https://github.com/oktal/pistache) (cpp)(vcpkg)- Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
 * https://github.com/oatpp/oatpp
 
+## Testing
+
+* [drill](https://github.com/fcsonline/drill) (rust) - a HTTP load testing application 
+
+ 
 ## Open Source Game Server
 
 * [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 8.3.0.34220, 3.3.5 = 3.3.5a.12340)
@@ -572,6 +577,11 @@ Version 0.1
 * https://github.com/paulftw/hiberlite
 * https://github.com/ClickHouse/ClickHouse
 
+## Data Engineering
+
+* [arrow data fusion](https://github.com/apache/arrow-datafusion) ( rust )
+
+
 ## WebView
 
 * https://github.com/zserge/webview (cpp)
@@ -585,8 +595,23 @@ Version 0.1
 
 * https://github.com/sharkdp/dbg-macro
 
-## Test Automation
 
 ## VM
 
 * https://github.com/rabbitvm/rabbit
+* [deno](https://github.com/denoland/deno) (rust) - a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 
+
+
+## Source Control
+
+* [pijul](https://nest.pijul.com/pijul/pijul) (rust) - [why pijul?](https://pijul.com/manual/why_pijul.html) 
+
+
+## Graphic Editor
+
+* [rx](https://rx.cloudhead.io/) (rust) - a modern and minimalist pixel editor
+
+## Sound
+
+* [engine sound](https://github.com/DasEtwas/enginesound) (rust) - a GUI Application used to generate purely synthetic engine sounds with advanced options
+
