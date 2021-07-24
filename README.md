@@ -397,16 +397,21 @@ Version 0.1
 * https://github.com/faragon/libsrt
 * https://github.com/electronicarts/EASTL
 
+### data parallel
+
+* [rayon](https://github.com/rayon-rs/rayon) (rust)- a data-parallelism library for Rust.
+
 ## i18n
 
 * https://github.com/sheredom/utf8.h
 
-## Objects
+## Objects - Entity, Actor
 
 * https://github.com/miguelmartin75/anax
 * https://github.com/alecthomas/entityx
 * [actix/actix](https://github.com/actix/actix) (rust) - Actor framework for Rust
 * [amethyst/specs](https://github.com/amethyst/specs) (rust) - Specs - Parallel ECS https://specs.amethyst.rs/
+
 
 ## Saving/Loading Objects, Compositing Packets
 
@@ -425,6 +430,11 @@ Version 0.1
 * https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime
 * https://github.com/WhiZTiM/UbjsonCpp
 * https://github.com/liteserver/binn
+
+* [serde](https://github.com/serde-rs/serde) (rust) - a framework for serializing and deserializing Rust data structures efficiently and generically.
+
+* [nom](https://github.com/Geal/nom) (rust) - a parser combinators library written in Rust
+* 
 
 ## Triangles , Geometry , Maths , Physics
 
@@ -457,9 +467,15 @@ Version 0.1
 * [tauri](https://github.com/tauri-apps/tauri) (rust) - a framework for building tiny, blazing fast binaries for all major desktop platforms
 * [sauron-native](https://github.com/ivanceras/sauron-native) (rust) - conquers all platforms ranging from desktop to mobile devices. An attempt to create a truly native, truly cross platform UI for your rust applications.
 
-## Native UI
+
+### Native UI
 
 * [fyne-io/fyne](https://github.com/fyne-io/fyne) (golang) - Cross platform GUI in Go based on Material Design https://fyne.io/
+
+### Front-end Web App
+
+* [yew](https://github.com/yewstack/yew) (rust) - a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly.
+
 
 ## Finite State Machine
 
@@ -491,9 +507,16 @@ Version 0.1
 * https://github.com/illuhad/hipSYCL
 
 
-## File IO
+## IO
 
+### File I/O
 * [mandreyel/mio](https://github.com/mandreyel/mio) (cpp)(vcpkg) - Cross-platform C++11 header-only library for memory mapped file IO
+
+### Network I/O
+
+* [mio](https://github.com/tokio-rs/mio) (rust) - a fast, low-level I/O library for Rust focusing on non-blocking APIs and event notification for building high performance I/O apps with as little overhead as possible over the OS abstractions.
+
+
 
 ## Virtual File System
 
@@ -607,6 +630,11 @@ Version 0.1
 * https://github.com/paulftw/hiberlite
 * https://github.com/ClickHouse/ClickHouse
 
+### ORM
+
+* [diesel](https://github.com/diesel-rs/diesel) (rust) - A safe, extensible ORM and Query Builder
+ 
+ 
 ## Data Engineering
 
 * [arrow data fusion](https://github.com/apache/arrow-datafusion) ( rust )
