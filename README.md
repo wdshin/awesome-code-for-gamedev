@@ -35,8 +35,10 @@ Version 0.11
 
 ## Build
 
+* [genie](https://github.com/bkaradzic/genie) - a project generator tool. It automagically generates project from Lua script, making applying the same settings for multiple projects easy.
 * [CMake](https://cmake.org/download/) 
   * [cpp starter project](https://github.com/lefticus/cpp_starter_project) - 
+
 
 ## Computer Graphics 
 
