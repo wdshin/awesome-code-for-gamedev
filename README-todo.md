@@ -16,7 +16,10 @@ Version 0.1
   * [godot github](https://github.com/godotengine/godot) 
 * [cocos2d-x](https://github.com/cocos2d/cocos2d-x) (cpp) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world. 
   * [cocos creator](https://www.cocos.com/en/)
-  
+
+### Engine Tutorials
+
+* Unreal Engine   
 
 ## IDEs and Code Editors
 
@@ -25,6 +28,9 @@ Version 0.1
 * CLion (c++,rust)
 * Goland  (golang)
 * Rider ( C# )
+
+### Language Tutorials
+
 
 ## Package Manager
 
@@ -37,6 +43,8 @@ Version 0.1
   * [cpp starter project](https://github.com/lefticus/cpp_starter_project) - 
 
 ## Computer Graphics 
+
+### Theories
 
 ### 3D Creation Tools
 
@@ -64,8 +72,29 @@ Version 0.1
 
 ### Landscape, World
 
-* [SpeedTree](https://store.speedtree.com/) 
-* TrueSky
+#### for unrealengine
+
+* World 
+  * [BrushFy](https://www.brushify.io/) - [The #1 Environment Toolkit for Unreal Engine 4](https://youtu.be/pH0Sq58ZpSo)
+  * [RVT landscape](https://game-developers.org/unreal-engine-landscape-how-to-create-a-terrain-in-ue4-with-rvt-optimized-for-open-world/) - [How to create a terrain in UE4 with RVT Optimized for Open-World](https://youtu.be/KazQVWYwKAI)
+  * [Voxel Plugin](https://voxelplugin.com/) - [allows to create fully volumetric, entirely destructible, infinite worlds in Unreal Engine. It is compatible with 4.24, 4.25, 4.26, 4.27 and Unreal 5.](https://youtu.be/hqhHRdcakv4)
+    * [Voxel Plugin source](https://github.com/Phyronnaz/VoxelPlugin) 
+* Foliage
+  * [SpeedTree](https://store.speedtree.com/) - [an Award-winning 3D Procedural vegetation middleware product with fine-tuned art controls.  Includes Modeler, Compiler, Tree Library and full-source SDK.](https://youtu.be/O3tu926ykvM)
+* [TrueSky](https://simul.co/truesky-pro/) - [The ultimate real-time weather renderer, as seen in popular AAA game titles.](https://youtu.be/rYSM40OaP20)
+* grass 
+* water 
+* lighting
+* fog 
+* level streaming 
+* HLOD
+
+
+## Unreal Engine Features
+
+* [EQS](https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/ArtificialIntelligence/EQS/)
+* 
+
 
 
 ### 2D Creation,Editing Tools
